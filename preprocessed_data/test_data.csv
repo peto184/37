@@ -1,5 +1,5 @@
 ,age,sex,query on thyroxine,on antithyroid medication,thyroid surgery,I131 treatment,tumor,hypopituitary,TSH,T3,TT4,T4U,FTI,referral source,class,workclass,fnlwgt,education-num,marital-status,occupation,relationship,race,hours-per-week,native-country,date_of_birth,goitre,lithium,on thyroxine,pregnant,psych,query hyperthyroid,query hypothyroid,sick,capital
-0,69.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,203814,9,Married-civ-spouse,Other-service,Wife,White,35,United-States,1948-04-20,0,0,0,0,0,0,0,1,None
+0,69.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,203814,9,Married-civ-spouse,Other-service,Wife,White,35,United-States,1948-04-20,0,0,0,0,0,0,0,1,None
 1,56.0,F,0,0,0,1,0,0,2.2,1.4,88.0,0.77,114.0,other,negative,Unknown,263220,10,Never-married,Unknown,Own_child,White,15,United-States,1962-03-20,0,0,1,0,0,0,1,0,None
 2,61.0,F,0,0,0,0,0,0,0.41,1.2,116.0,0.87,134.0,svi,negative,Local-gov,94529,9,Married-civ-spouse,Handlers-cleaners,Wife,White,50,United-States,1956-07-09,0,0,1,0,0,0,1,0,Positive
 3,16.0,Unknown,0,0,0,0,0,0,3.1,1.1,96.0,0.87,111.0,svi,negative,State-gov,21189,13,Divorced,Adm-clerical,Other_relative,Black,32,United-States,2001-05-27,0,0,0,0,0,0,0,0,None
@@ -20,7 +20,7 @@
 18,49.0,F,0,0,0,0,0,0,0.25,3.0212628603697635,184.0,0.86,214.0,other,negative,Private,192936,13,Never-married,Exec-managerial,Not_in_family,White,30,United-States,1968-04-13,0,0,1,0,0,0,0,0,None
 19,75.0,F,0,0,0,1,0,0,0.25,3.4,151.0,1.13,134.0,other,increased binding protein,Private,150943,13,Widowed,Exec-managerial,Other_relative,White,40,United-States,1943-01-08,0,0,0,0,0,0,0,0,None
 20,70.0,M,0,0,0,0,0,0,0.43,2.1241474335743513,116.0,0.78,149.0,svi,negative,Private,158363,10,Married-civ-spouse,Sales,Husband,White,40,United-States,1947-04-03,0,0,0,0,0,0,0,0,None
-21,22.0,M,0,0,0,0,0,0,1.2,2.5,106.0,0.9896979597974322,108.26018193607347,other,negative,Private,97723,9,Married-civ-spouse,Transport-moving,Husband,White,50,United-States,1995-05-07,0,0,0,0,0,0,0,0,Negative
+21,22.0,M,0,0,0,0,0,0,1.2,2.5,106.0,0.98,108.26018193607347,other,negative,Private,97723,9,Married-civ-spouse,Transport-moving,Husband,White,50,United-States,1995-05-07,0,0,0,0,0,0,0,0,Negative
 22,48.0,F,0,0,0,0,0,0,2.8,2.7,102.0,0.94,109.0,svhc,negative,Private,34616,9,Never-married,Sales,Own_child,White,40,United-States,1969-10-15,0,0,0,0,0,0,0,0,None
 23,71.0,M,0,0,0,0,0,0,2.3,1.3325749981666342,56.0,1.12,50.0,svi,negative,Private,85109,10,Never-married,Sales,Not_in_family,White,45,United-States,1946-04-22,0,0,0,0,0,0,0,0,Positive
 24,33.0,F,0,0,0,0,0,0,1.0,0.2,87.0,0.54,161.0,other,decreased binding protein,Self-emp-not-inc,237729,9,Married-civ-spouse,Prof-specialty,Wife,White,65,United-States,1984-10-03,0,0,0,0,0,0,0,0,Positive
@@ -33,20 +33,20 @@
 31,21.0,F,0,0,0,0,0,0,1.5,2.1,130.0,1.04,124.0,svhc,negative,Private,186689,9,Married-civ-spouse,Other-service,Wife,Black,60,United-States,1996-05-29,0,0,0,0,1,0,0,0,None
 32,29.0,F,0,0,0,0,0,0,1.3,1.6,90.0,0.97,93.0,other,negative,Private,109912,9,Married-civ-spouse,Sales,Wife,White,50,England,1988-10-28,0,0,0,0,0,0,0,0,Positive
 33,46.0,M,0,0,0,0,0,0,0.25,2.0,112.0,1.01,111.0,svi,negative,Local-gov,202699,15,Married-civ-spouse,Prof-specialty,Husband,White,35,United-States,1971-12-19,0,0,0,0,0,0,0,0,Positive
-34,65.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,218249,7,Separated,Adm-clerical,Unmarried,Black,40,United-States,1952-10-29,0,0,0,0,0,0,0,0,None
+34,65.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,218249,7,Separated,Adm-clerical,Unmarried,Black,40,United-States,1952-10-29,0,0,0,0,0,0,0,0,None
 35,50.0,F,0,0,0,0,0,0,26.429999999999836,2.4,25.0,1.21,20.0,svi,negative,Private,315437,9,Separated,Sales,Not_in_family,White,40,United-States,1967-07-13,0,0,0,0,0,0,0,0,None
 36,54.0,M,0,0,0,0,0,0,14.4,1.1,51.0,0.68,75.0,svi,negative,Local-gov,150533,14,Married-civ-spouse,Protective-serv,Husband,White,35,United-States,1963-12-15,0,0,0,0,0,0,0,0,Positive
 37,55.0,M,0,0,0,0,0,0,1.6,1.6,114.0,0.93,123.0,other,negative,Private,295591,1,Never-married,Farming-fishing,Not_in_family,White,40,Mexico,1962-12-31,0,0,0,0,0,0,0,0,None
 38,69.0,F,0,0,0,0,0,0,0.25,2.374812038120128,135.0,1.1,123.0,other,negative,Private,205816,9,Married-civ-spouse,Other-service,Wife,White,40,United-States,1948-05-02,0,0,1,0,0,0,0,0,None
-39,60.0,F,0,0,0,0,0,0,1.0,1.5,102.0,0.9801832955670722,105.31351715248117,other,negative,Unknown,179644,11,Married-civ-spouse,Unknown,Wife,White,5,United-States,1957-08-26,0,0,0,0,0,0,0,0,None
+39,60.0,F,0,0,0,0,0,0,1.0,1.5,102.0,0.98,105.31351715248117,other,negative,Unknown,179644,11,Married-civ-spouse,Unknown,Wife,White,5,United-States,1957-08-26,0,0,0,0,0,0,0,0,None
 40,55.0,M,0,0,0,0,0,0,0.6,1.1,95.0,0.97,98.0,svi,negative,Private,95875,5,Never-married,Handlers-cleaners,Own_child,White,12,United-States,1962-07-04,0,0,0,0,0,0,0,0,None
 41,74.0,F,0,0,0,0,0,0,0.5,0.8,151.0,1.01,150.0,other,negative,Private,129777,9,Widowed,Adm-clerical,Unmarried,White,40,United-States,1943-05-24,0,0,1,0,0,0,0,0,None
-42,59.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Unknown,189762,10,Married-civ-spouse,Unknown,Wife,White,18,United-States,1959-01-01,0,0,0,0,0,0,0,0,None
-43,65.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,106637,10,Divorced,Adm-clerical,Unmarried,White,20,United-States,1952-07-16,0,0,0,0,0,0,0,0,None
+42,59.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Unknown,189762,10,Married-civ-spouse,Unknown,Wife,White,18,United-States,1959-01-01,0,0,0,0,0,0,0,0,None
+43,65.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,106637,10,Divorced,Adm-clerical,Unmarried,White,20,United-States,1952-07-16,0,0,0,0,0,0,0,0,None
 44,42.0,M,0,1,0,0,0,0,0.67,1.9,74.0,0.79,93.0,other,negative,Private,24264,10,Married-civ-spouse,Prof-specialty,Husband,White,40,United-States,1975-07-17,0,0,0,0,0,1,0,0,None
 45,66.0,F,0,0,0,0,0,0,0.1,1.8,108.0,0.71,151.0,svi,negative,Private,53540,10,Divorced,Prof-specialty,Not_in_family,Black,40,United-States,1951-08-05,0,0,0,0,0,0,0,0,None
 46,46.0,M,0,0,0,0,0,0,4.8,2.9,132.0,1.27,104.0,svhc,increased binding protein,Private,198613,14,Never-married,Exec-managerial,Own_child,White,40,United-States,1971-10-04,0,0,0,0,1,0,0,0,Positive
-47,20.0,F,0,0,0,0,0,0,1.3,2.6,87.0,0.9445033047032221,94.26352421401006,other,negative,Unknown,40032,13,Never-married,Unknown,Not_in_family,White,40,United-States,1997-12-28,0,0,0,0,0,0,0,0,None
+47,20.0,F,0,0,0,0,0,0,1.3,2.6,87.0,0.98,94.26352421401006,other,negative,Unknown,40032,13,Never-married,Unknown,Not_in_family,White,40,United-States,1997-12-28,0,0,0,0,0,0,0,0,None
 48,75.0,F,0,0,0,0,0,0,0.33,1.8,134.0,0.97,138.0,other,negative,Private,110013,13,Divorced,Other-service,Own_child,White,40,United-States,1942-07-03,0,0,0,0,0,0,0,0,None
 49,75.0,F,0,0,0,0,0,0,1.9,2.2296904249620466,124.0,0.86,144.0,other,negative,Private,101352,13,Never-married,Exec-managerial,Own_child,White,40,United-States,1942-07-12,0,0,1,0,0,0,0,0,None
 50,74.0,F,0,0,0,0,0,0,0.25,0.8,103.0,0.73,141.0,svi,negative,Private,31501,11,Widowed,Adm-clerical,Unmarried,White,40,United-States,1944-01-02,0,0,0,0,0,0,0,0,None
@@ -54,10 +54,10 @@
 52,39.0,F,0,0,0,0,0,0,1.9,2.4,95.0,1.21,78.0,other,negative,Private,666014,13,Never-married,Exec-managerial,Not_in_family,White,50,United-States,1978-12-04,0,0,0,0,1,0,0,0,None
 53,68.0,M,0,0,0,0,0,0,1.9,1.8207113333347262,93.0,0.86,108.0,svhc,negative,Private,173858,13,Married-civ-spouse,Exec-managerial,Husband,Asian-Pac-Islander,35,China,1949-05-23,0,1,0,0,0,0,0,0,Positive
 54,85.0,F,0,0,0,0,0,0,0.8,2.1,100.0,1.06,95.0,svi,negative,Private,178623,13,Married-civ-spouse,Prof-specialty,Wife,Black,35,United-States,1932-04-20,0,0,0,0,0,0,0,0,None
-55,37.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,211494,10,Divorced,Exec-managerial,Not_in_family,White,55,United-States,1980-04-19,0,0,0,0,0,1,0,0,Negative
+55,37.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,211494,10,Divorced,Exec-managerial,Not_in_family,White,55,United-States,1980-04-19,0,0,0,0,0,1,0,0,Negative
 56,73.0,M,0,0,0,0,0,0,0.5,0.7,110.0,0.93,118.0,svi,negative,Private,361951,13,Never-married,Sales,Not_in_family,Black,48,Unknown,1944-05-03,0,0,0,0,0,0,0,0,None
 57,60.0,M,0,0,0,0,0,0,2.5,1.3,119.0,0.88,135.0,svi,negative,Private,112945,11,Married-civ-spouse,Exec-managerial,Husband,White,40,United-States,1957-07-28,0,0,0,0,0,0,0,0,None
-58,56.0,M,0,0,0,0,0,0,1.3,1.8,104.0,0.9849406276822522,106.78684954427732,other,negative,Local-gov,313635,15,Separated,Prof-specialty,Not_in_family,Black,40,United-States,1961-06-02,0,0,0,0,0,0,1,0,Positive
+58,56.0,M,0,0,0,0,0,0,1.3,1.8,104.0,0.98,106.78684954427732,other,negative,Local-gov,313635,15,Separated,Prof-specialty,Not_in_family,Black,40,United-States,1961-06-02,0,0,0,0,0,0,1,0,Positive
 59,35.0,F,0,0,0,0,0,0,2.5,1.2,124.0,1.12,111.0,other,negative,Private,107845,13,Married-civ-spouse,Prof-specialty,Wife,White,40,United-States,1982-10-08,0,0,0,0,0,0,0,0,None
 60,52.0,M,0,0,0,0,0,0,0.2,2.3,116.0,0.94,123.0,other,negative,Private,117299,9,Married-civ-spouse,Transport-moving,Husband,White,40,United-States,1965-06-07,0,0,1,0,0,0,0,0,None
 61,50.0,F,0,0,0,0,0,0,0.6,2.0,83.0,1.31,63.0,svi,increased binding protein,Private,153021,10,Never-married,Adm-clerical,Own_child,White,6,United-States,1967-03-25,0,0,0,0,0,0,0,0,None
@@ -73,11 +73,11 @@
 71,77.0,F,0,0,0,0,0,0,0.045,1.2,67.0,0.96,69.0,other,negative,Private,117310,9,Married-civ-spouse,Exec-managerial,Wife,White,50,United-States,1940-08-15,0,0,0,0,0,0,0,0,None
 72,67.0,F,0,0,0,0,0,0,1.7,1.8,143.0,0.87,164.0,svi,negative,Unknown,61791,5,Married-civ-spouse,Unknown,Wife,White,40,United-States,1950-04-25,0,0,1,0,0,0,0,0,None
 73,37.0,M,0,0,0,0,0,0,1.1,2.4,106.0,0.97,109.0,svhc,negative,Local-gov,191202,9,Never-married,Other-service,Own_child,White,45,United-States,1980-06-22,0,0,0,0,1,0,0,0,None
-74,58.0,F,0,0,0,0,0,0,2.8,2.1,109.0,0.9968339579702021,110.47018052376768,other,negative,Unknown,138938,9,Married-civ-spouse,Unknown,Own_child,White,3,United-States,1959-03-30,0,0,0,0,0,0,0,0,None
-75,36.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,48915,13,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1981-07-15,0,0,0,0,0,0,0,1,None
+74,58.0,F,0,0,0,0,0,0,2.8,2.1,109.0,0.98,110.47018052376768,other,negative,Unknown,138938,9,Married-civ-spouse,Unknown,Own_child,White,3,United-States,1959-03-30,0,0,0,0,0,0,0,0,None
+75,36.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,48915,13,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1981-07-15,0,0,0,0,0,0,0,1,None
 76,45.0,F,0,0,0,0,0,0,1.4,2.1,100.0,0.95,106.0,other,negative,Private,110998,10,Never-married,Adm-clerical,Own_child,Asian-Pac-Islander,40,Philippines,1972-10-07,0,0,0,0,0,0,0,0,None
 77,36.0,M,1,0,0,0,0,0,0.25,1.8,124.0,0.75,166.0,svi,negative,Unknown,142719,9,Married-civ-spouse,Unknown,Husband,White,48,United-States,1981-11-11,0,0,0,0,0,0,0,0,None
-78,69.0,F,0,0,0,0,0,0,6.8,2.2,77.0,0.920716644127322,86.8968622550293,other,negative,Private,221078,9,Never-married,Sales,Not_in_family,White,35,United-States,1948-08-16,0,0,0,0,0,0,0,0,None
+78,69.0,F,0,0,0,0,0,0,6.8,2.2,77.0,0.98,86.8968622550293,other,negative,Private,221078,9,Never-married,Sales,Not_in_family,White,35,United-States,1948-08-16,0,0,0,0,0,0,0,0,None
 79,70.0,F,0,0,0,0,0,0,0.34,2.5,163.0,1.11,148.0,svi,negative,Private,247711,13,Never-married,Sales,Not_in_family,White,55,United-States,1947-12-20,0,0,0,0,0,0,0,0,Negative
 80,73.0,F,0,0,0,0,0,0,0.03,1.7,127.0,0.89,143.0,other,negative,Private,355313,9,Never-married,Machine-op-inspct,Not_in_family,White,40,United-States,1944-10-09,0,0,1,0,0,0,1,0,None
 81,52.0,M,0,0,0,0,0,0,4.672150238473766,1.2798035024727863,52.0,1.06,49.0,other,negative,Private,553405,11,Never-married,Sales,Own_child,White,40,United-States,1965-11-17,0,0,0,0,0,0,0,0,None
@@ -85,9 +85,9 @@
 83,50.0,F,0,0,0,0,0,0,0.25,2.0,77.0,0.75,103.0,other,negative,Unknown,181118,9,Never-married,Unknown,Own_child,Black,20,United-States,1967-12-14,0,0,0,0,0,0,0,0,None
 84,61.0,M,0,0,0,0,0,0,4.672150238473766,1.0,72.0,0.7,103.0,other,negative,Private,140927,13,Married-civ-spouse,Adm-clerical,Husband,White,40,United-States,1956-08-12,0,0,0,0,0,0,0,0,None
 85,24.0,F,0,0,0,0,0,0,3.7,2.3,100.0,1.11,90.0,svhc,negative,Unknown,141076,9,Divorced,Unknown,Not_in_family,Black,40,United-States,1993-10-27,0,0,0,0,1,0,0,0,Positive
-86,27.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,262656,12,Never-married,Sales,Own_child,White,40,United-States,1991-03-13,0,0,0,0,0,0,0,0,None
+86,27.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,262656,12,Never-married,Sales,Own_child,White,40,United-States,1991-03-13,0,0,0,0,0,0,0,0,None
 87,57.0,M,0,0,0,0,0,0,0.75,0.9,82.0,0.62,133.0,svi,negative,Private,189123,14,Never-married,Machine-op-inspct,Not_in_family,White,40,United-States,1960-09-26,0,0,0,0,0,0,0,0,None
-88,19.0,F,0,0,0,0,0,0,0.86,2.2,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,393673,14,Never-married,Prof-specialty,Unmarried,White,40,United-States,1998-06-05,0,0,0,0,0,0,0,0,None
+88,19.0,F,0,0,0,0,0,0,0.86,2.2,109.07240061162078,0.98,110.51815004876983,other,negative,Private,393673,14,Never-married,Prof-specialty,Unmarried,White,40,United-States,1998-06-05,0,0,0,0,0,0,0,0,None
 89,38.0,F,0,0,0,0,0,0,1.4,1.5,80.0,1.12,71.0,svi,negative,Private,61898,10,Married-civ-spouse,Prof-specialty,Wife,White,40,United-States,1979-11-05,0,0,0,0,0,0,0,0,None
 90,49.0,F,0,0,0,0,0,0,1.3,1.6,126.0,0.87,145.0,svi,negative,Private,218172,13,Married-spouse-absent,Exec-managerial,Not_in_family,White,60,United-States,1968-07-15,0,0,0,0,0,0,0,0,Positive
 91,54.0,F,0,0,0,0,0,0,0.4,1.385346493860482,60.0,0.87,69.0,other,negative,Private,103925,13,Never-married,Prof-specialty,Not_in_family,White,45,Germany,1963-05-29,0,0,0,0,0,0,0,1,None
@@ -97,7 +97,7 @@
 95,70.0,F,0,0,0,0,0,0,2.0,2.2,138.0,1.24,111.0,other,negative,Private,305090,10,Separated,Sales,Other_relative,White,55,United-States,1947-07-31,0,0,0,0,0,0,0,0,None
 96,67.0,F,0,0,0,0,0,0,2.2,2.0,99.0,0.96,103.0,other,negative,Private,49340,10,Divorced,Exec-managerial,Unmarried,White,40,United-States,1950-05-13,0,0,0,0,0,0,0,0,None
 97,19.0,M,0,0,0,0,0,0,0.84,2.0,98.0,0.88,112.0,svi,negative,Private,203717,13,Married-civ-spouse,Farming-fishing,Husband,White,60,United-States,1999-01-04,0,0,0,0,0,0,0,0,None
-98,38.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Unknown,96483,10,Never-married,Unknown,Own_child,Asian-Pac-Islander,8,United-States,1979-10-25,1,0,0,0,0,0,0,0,None
+98,38.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Unknown,96483,10,Never-married,Unknown,Own_child,Asian-Pac-Islander,8,United-States,1979-10-25,1,0,0,0,0,0,0,0,None
 99,31.0,F,0,0,0,0,0,0,5.0,2.4539692816609,141.0,1.09,130.0,other,negative,Private,82488,13,Married-civ-spouse,Adm-clerical,Wife,Asian-Pac-Islander,40,Philippines,1986-04-05,0,0,1,0,0,0,1,0,None
 100,45.0,M,0,0,0,0,0,0,0.9,2.6,92.0,0.9,102.0,other,negative,Private,30776,13,Married-civ-spouse,Sales,Husband,White,40,United-States,1972-05-22,0,0,0,0,0,0,0,0,None
 101,56.0,F,0,0,0,0,0,0,1.4,2.3,111.0,0.97,115.0,other,negative,Private,181814,10,Never-married,Adm-clerical,Other_relative,White,40,United-States,1962-01-22,0,0,0,0,0,0,1,0,None
@@ -110,7 +110,7 @@
 108,29.0,F,0,0,0,0,0,0,4.672150238473766,1.7811327115643405,90.0,1.0,90.0,other,negative,Local-gov,137678,9,Divorced,Other-service,Not_in_family,White,30,United-States,1988-08-26,0,0,0,0,0,0,0,0,None
 109,42.0,F,0,0,0,0,0,0,1.3,2.0,87.0,0.73,118.0,svi,negative,Private,197577,9,Divorced,Other-service,Not_in_family,White,40,United-States,1975-05-04,0,0,0,0,0,0,0,0,None
 110,19.0,F,0,0,0,0,0,0,1.7,1.9,89.0,0.88,102.0,svhc,negative,Private,158275,9,Divorced,Adm-clerical,Unmarried,Black,40,United-States,1999-01-12,0,0,0,0,1,0,0,0,Negative
-111,33.0,M,0,0,0,0,0,0,26.429999999999836,0.3,9.5,0.7601566852399965,37.171894031909304,svi,negative,Private,92179,6,Divorced,Machine-op-inspct,Not_in_family,White,40,United-States,1984-10-17,0,0,0,0,0,0,0,0,None
+111,33.0,M,0,0,0,0,0,0,26.429999999999836,0.3,9.5,0.98,37.171894031909304,svi,negative,Private,92179,6,Divorced,Machine-op-inspct,Not_in_family,White,40,United-States,1984-10-17,0,0,0,0,0,0,0,0,None
 112,25.0,M,0,0,0,0,0,0,1.8,2.0,90.0,0.92,98.0,svhc,negative,Unknown,143331,7,Never-married,Unknown,Own_child,White,40,United-States,1992-08-02,0,0,0,0,1,0,0,0,None
 113,28.0,M,0,0,0,0,0,0,1.4,2.1,135.0,0.92,147.0,other,negative,Private,390746,13,Married-civ-spouse,Prof-specialty,Husband,White,45,Ireland,1989-04-23,0,0,0,0,0,0,0,0,Negative
 114,46.0,F,0,0,0,0,0,0,0.02,1.9,116.0,0.9,129.0,other,negative,Local-gov,158357,13,Divorced,Prof-specialty,Not_in_family,White,40,United-States,1971-10-23,0,0,1,0,0,0,0,0,None
@@ -124,11 +124,11 @@
 122,56.0,M,0,0,0,0,0,0,3.2,1.7,87.0,0.87,100.0,svi,negative,Private,31659,10,Never-married,Craft-repair,Not_in_family,White,45,United-States,1961-04-01,0,0,0,0,0,0,0,0,Positive
 123,62.0,M,0,0,0,0,0,0,5.0,1.6755897201766448,82.0,0.81,101.0,svhc,negative,Private,183111,11,Never-married,Transport-moving,Own_child,White,60,United-States,1955-06-15,0,0,0,0,0,0,0,0,None
 124,43.0,F,0,0,0,0,0,0,0.7,2.5,99.0,1.12,89.0,stmw,negative,Private,225339,9,Widowed,Adm-clerical,Unmarried,Black,35,United-States,1974-07-12,0,0,0,0,0,0,0,0,None
-125,71.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,442656,7,Never-married,Sales,Unmarried,White,65,Guatemala,1946-10-05,0,0,0,0,0,0,0,0,None
+125,71.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,442656,7,Never-married,Sales,Unmarried,White,65,Guatemala,1946-10-05,0,0,0,0,0,0,0,0,None
 126,28.0,F,0,1,0,0,0,0,0.3,2.9,171.0,1.2,143.0,other,negative,Unknown,377725,13,Never-married,Unknown,Not_in_family,White,23,United-States,1990-01-21,0,0,0,0,0,0,0,0,None
 127,60.0,F,0,0,0,0,0,0,26.429999999999836,0.5,11.0,1.19,9.1,other,negative,Private,119769,9,Widowed,Priv-house-serv,Unmarried,Black,20,United-States,1957-12-18,0,0,1,0,0,0,0,0,None
 128,72.0,M,0,0,0,0,0,0,0.3,0.6,120.0,1.06,113.0,svi,negative,Private,186824,13,Married-civ-spouse,Prof-specialty,Husband,White,40,United-States,1945-08-17,0,0,0,0,0,0,0,0,None
-129,72.0,F,0,0,0,0,1,0,4.672150238473766,3.2,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,State-gov,126894,16,Never-married,Prof-specialty,Not_in_family,Black,30,United-States,1945-11-07,0,0,1,0,0,0,0,0,None
+129,72.0,F,0,0,0,0,1,0,4.672150238473766,3.2,109.07240061162078,0.98,110.51815004876983,other,negative,State-gov,126894,16,Never-married,Prof-specialty,Not_in_family,Black,30,United-States,1945-11-07,0,0,1,0,0,0,0,0,None
 130,53.0,F,0,0,0,0,0,0,0.25,2.1,145.0,1.03,141.0,other,negative,Private,122473,14,Married-civ-spouse,Exec-managerial,Wife,Black,50,United-States,1964-11-01,0,0,0,0,0,0,1,0,Negative
 131,75.0,M,0,0,0,0,0,0,1.4,2.1,115.0,0.97,119.0,other,negative,Private,220454,9,Never-married,Machine-op-inspct,Own_child,White,40,United-States,1942-06-07,0,0,0,0,0,0,0,0,None
 132,56.0,M,0,0,0,0,0,0,0.8,1.8,76.0,0.8,95.0,svi,negative,Local-gov,197886,9,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1961-11-20,0,0,0,0,0,0,0,0,None
@@ -139,15 +139,15 @@
 137,75.0,Unknown,0,0,0,0,0,0,2.3,1.6,111.0,0.77,145.0,svhc,negative,Federal-gov,37274,9,Never-married,Craft-repair,Own_child,White,20,United-States,1942-08-10,0,0,0,0,0,0,0,0,None
 138,30.0,F,0,0,0,0,0,0,0.76,3.4,129.0,1.53,84.0,stmw,increased binding protein,Self-emp-not-inc,213307,6,Married-civ-spouse,Other-service,Wife,White,28,Mexico,1987-04-17,0,0,0,0,0,0,0,0,None
 139,28.0,M,0,0,0,0,0,0,1.0,3.1,107.0,1.05,103.0,svhc,negative,Private,135521,9,Never-married,Craft-repair,Own_child,White,50,United-States,1990-01-05,0,0,0,0,0,0,0,0,None
-140,65.0,F,0,0,0,0,0,0,1.02,3.0,130.0,1.0467859451795924,125.94017063762725,other,negative,Local-gov,111817,13,Never-married,Prof-specialty,Not_in_family,White,40,United-States,1952-05-29,0,0,0,0,0,0,0,0,None
+140,65.0,F,0,0,0,0,0,0,1.02,3.0,130.0,0.98,125.94017063762725,other,negative,Local-gov,111817,13,Never-married,Prof-specialty,Not_in_family,White,40,United-States,1952-05-29,0,0,0,0,0,0,0,0,None
 141,28.0,F,0,0,0,0,0,0,0.2,2.0,115.0,0.92,124.0,other,negative,Private,139793,10,Divorced,Adm-clerical,Unmarried,White,38,United-States,1989-10-21,0,0,1,0,0,0,0,0,Positive
-142,12.0,M,0,0,0,0,0,0,2.1,2.7,93.0,0.9587753010487621,98.68352138939849,svi,negative,Unknown,334593,10,Never-married,Unknown,Not_in_family,White,40,United-States,2005-08-12,0,0,0,0,0,0,0,0,None
+142,12.0,M,0,0,0,0,0,0,2.1,2.7,93.0,0.98,98.68352138939849,svi,negative,Unknown,334593,10,Never-married,Unknown,Not_in_family,White,40,United-States,2005-08-12,0,0,0,0,0,0,0,0,None
 143,58.0,M,0,0,0,0,0,0,3.7,1.6,76.0,0.81,95.0,other,negative,Private,188171,9,Never-married,Handlers-cleaners,Own_child,White,40,United-States,1960-01-13,0,0,0,0,0,0,0,0,None
 144,73.0,F,0,0,0,0,1,0,0.025,1.5,77.0,0.94,82.0,other,negative,Private,34506,10,Never-married,Sales,Not_in_family,White,20,United-States,1945-02-18,0,0,0,0,0,1,0,0,None
 145,54.0,M,0,0,0,0,0,0,1.2,1.9,89.0,0.85,104.0,svi,negative,Private,130540,14,Never-married,Prof-specialty,Own_child,White,40,United-States,1963-08-08,0,0,0,0,0,0,0,0,Negative
 146,92.0,F,0,0,0,0,0,0,0.7,1.3,120.0,0.84,143.0,svi,negative,Private,143604,9,Never-married,Other-service,Own_child,White,40,United-States,1925-04-13,0,0,0,0,0,0,0,0,None
 147,39.0,F,0,0,0,0,0,0,1.5,1.9,102.0,0.87,118.0,svi,negative,Local-gov,66278,14,Never-married,Prof-specialty,Not_in_family,White,45,United-States,1978-06-07,0,0,0,0,0,0,0,0,None
-148,85.0,F,0,0,0,0,0,0,6.0,2.0,103.0,0.9825619616246621,106.05018334837925,other,negative,Private,118551,13,Never-married,Sales,Not_in_family,White,35,United-States,1932-12-22,0,0,0,0,0,0,0,0,None
+148,85.0,F,0,0,0,0,0,0,6.0,2.0,103.0,0.98,106.05018334837925,other,negative,Private,118551,13,Never-married,Sales,Not_in_family,White,35,United-States,1932-12-22,0,0,0,0,0,0,0,0,None
 149,37.0,F,0,0,0,0,0,0,1.0,2.3,89.0,0.94,95.0,other,negative,Private,182191,13,Never-married,Prof-specialty,Not_in_family,White,38,United-States,1981-02-16,0,0,0,0,0,0,0,0,Positive
 150,55.0,M,0,0,0,0,0,0,1.5,0.4,52.0,0.75,69.0,svi,negative,Private,114544,10,Married-civ-spouse,Exec-managerial,Husband,White,55,United-States,1963-02-23,0,0,0,0,0,0,0,0,None
 151,70.0,F,0,0,0,0,0,0,1.3,1.8,94.0,0.86,110.0,svi,negative,Private,348986,9,Married-civ-spouse,Other-service,Other_relative,Asian-Pac-Islander,28,Taiwan,1948-02-28,0,0,0,0,0,1,1,0,None
@@ -172,9 +172,9 @@
 170,81.0,F,0,0,0,0,0,0,1.3,1.6,94.0,0.8,119.0,other,negative,State-gov,199266,10,Never-married,Adm-clerical,Not_in_family,White,17,United-States,1937-01-07,0,0,0,0,0,0,0,0,None
 171,71.0,F,0,0,0,0,0,0,2.7,1.2,107.0,1.1,97.0,other,negative,State-gov,234135,13,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1946-08-18,0,0,1,0,0,0,0,0,None
 172,20.0,F,0,0,0,0,0,0,1.5,2.5,94.0,1.04,90.0,other,negative,Private,254167,6,Widowed,Priv-house-serv,Not_in_family,White,60,United-States,1997-07-24,0,0,0,0,0,0,0,0,None
-173,35.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Local-gov,198028,10,Married-civ-spouse,Adm-clerical,Wife,White,40,United-States,1982-05-01,0,0,0,0,0,0,0,0,None
-174,38.0,F,0,0,0,0,0,0,0.9,2.4,91.0,0.954017968933582,97.21018899760236,other,negative,Unknown,80978,9,Never-married,Unknown,Own_child,White,25,United-States,1980-03-07,0,0,0,0,0,0,0,0,None
-175,30.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,188148,10,Never-married,Handlers-cleaners,Unmarried,Black,48,United-States,1987-08-02,0,0,0,0,0,0,0,0,None
+173,35.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Local-gov,198028,10,Married-civ-spouse,Adm-clerical,Wife,White,40,United-States,1982-05-01,0,0,0,0,0,0,0,0,None
+174,38.0,F,0,0,0,0,0,0,0.9,2.4,91.0,0.98,97.21018899760236,other,negative,Unknown,80978,9,Never-married,Unknown,Own_child,White,25,United-States,1980-03-07,0,0,0,0,0,0,0,0,None
+175,30.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,188148,10,Never-married,Handlers-cleaners,Unmarried,Black,48,United-States,1987-08-02,0,0,0,0,0,0,0,0,None
 176,22.0,F,0,0,0,0,0,0,2.6,1.1,102.0,0.81,125.0,other,negative,Local-gov,174215,14,Married-civ-spouse,Prof-specialty,Wife,White,35,United-States,1995-09-08,0,0,0,0,0,0,0,0,Positive
 177,65.0,Unknown,0,0,0,0,0,0,0.025,3.2,129.0,0.77,168.0,svi,negative,Private,295010,10,Married-civ-spouse,Adm-clerical,Other_relative,White,40,United-States,1952-08-28,0,0,0,0,0,0,0,0,None
 178,48.0,F,0,0,0,0,0,0,4.4,1.6,61.0,1.09,56.0,other,negative,Private,255575,10,Never-married,Other-service,Unmarried,White,30,United-States,1969-12-01,0,0,0,0,0,0,0,0,None
@@ -190,7 +190,7 @@
 188,62.0,F,0,0,0,0,0,0,1.1,2.3,119.0,0.95,125.0,other,negative,Local-gov,57711,13,Never-married,Adm-clerical,Own_child,White,40,Germany,1955-10-19,0,0,0,0,0,0,0,0,None
 189,58.0,F,0,0,0,0,0,0,0.15,2.5,87.0,0.79,109.0,other,negative,Private,162544,4,Never-married,Priv-house-serv,Own_child,White,30,United-States,1959-10-06,0,0,0,0,0,0,0,0,None
 190,58.0,M,0,0,0,0,0,0,0.2,2.1,106.0,0.94,113.0,other,negative,Private,188325,10,Married-civ-spouse,Machine-op-inspct,Husband,White,50,United-States,1959-08-10,0,0,0,0,0,0,0,0,None
-191,79.0,F,0,0,0,0,0,0,1.4,0.6,94.0,0.961153967106352,99.42018758529657,svi,negative,Federal-gov,244689,7,Never-married,Other-service,Own_child,White,10,United-States,1938-07-12,0,0,0,0,0,0,0,0,None
+191,79.0,F,0,0,0,0,0,0,1.4,0.6,94.0,0.98,99.42018758529657,svi,negative,Federal-gov,244689,7,Never-married,Other-service,Own_child,White,10,United-States,1938-07-12,0,0,0,0,0,0,0,0,None
 192,19.0,Unknown,0,0,0,0,0,0,5.7,1.9,104.0,1.1,94.0,other,negative,Local-gov,271927,13,Married-civ-spouse,Prof-specialty,Husband,White,45,United-States,1998-05-24,0,0,1,0,0,0,0,0,None
 193,45.0,M,0,0,0,0,0,0,1.7,2.0,71.0,0.93,76.0,other,negative,Private,230936,13,Married-civ-spouse,Sales,Husband,White,40,United-States,1973-01-09,0,0,0,0,0,0,0,0,None
 194,37.0,F,0,0,0,0,0,0,2.2,1.9130614507989598,100.0,1.14,87.0,other,negative,Private,149871,9,Never-married,Adm-clerical,Unmarried,Black,40,United-States,1981-02-03,0,0,0,0,0,0,1,0,None
@@ -205,12 +205,12 @@
 203,81.0,F,0,0,0,0,0,0,1.4,1.0,92.0,0.99,93.0,other,negative,Private,202060,9,Never-married,Adm-clerical,Not_in_family,Black,34,United-States,1937-03-11,0,0,0,0,0,0,0,0,None
 204,40.0,F,0,0,0,0,0,0,9.2,1.5,113.0,1.03,109.0,other,negative,Private,190483,9,Never-married,Adm-clerical,Own_child,White,40,United-States,1977-10-22,0,0,0,0,0,1,0,0,None
 205,34.0,M,0,0,0,0,0,0,1.1,1.8,60.0,0.75,80.0,svi,negative,Self-emp-inc,184456,9,Married-civ-spouse,Sales,Husband,White,55,Italy,1983-04-09,0,0,0,0,0,0,0,0,None
-206,11.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,127876,10,Never-married,Other-service,Not_in_family,White,35,United-States,2006-08-21,0,0,0,0,0,1,0,0,None
+206,11.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,127876,10,Never-married,Other-service,Not_in_family,White,35,United-States,2006-08-21,0,0,0,0,0,1,0,0,None
 207,71.0,F,0,0,0,0,0,0,0.65,2.176918929268199,120.0,1.07,112.0,svi,negative,Private,119673,10,Never-married,Other-service,Not_in_family,White,30,United-States,1946-12-19,0,0,0,0,0,0,0,0,None
 208,54.0,F,0,0,0,0,0,0,0.51,2.1505331814212747,118.0,1.15,103.0,svhc,negative,Local-gov,224640,12,Never-married,Exec-managerial,Own_child,White,40,United-States,1963-06-11,0,0,0,0,1,0,0,0,None
 209,34.0,F,0,0,0,0,0,0,4.672150238473766,1.9526400725693458,103.0,1.38,75.0,other,increased binding protein,Self-emp-not-inc,157778,11,Divorced,Prof-specialty,Not_in_family,White,50,United-States,1983-06-11,1,0,1,0,0,0,0,0,Positive
 210,31.0,F,0,0,0,0,0,0,4.8,2.6,93.0,1.18,79.0,stmw,negative,Private,128258,9,Divorced,Sales,Not_in_family,White,24,United-States,1986-12-12,0,0,0,0,0,0,0,0,None
-211,16.0,M,0,0,0,0,0,0,4.5,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,100079,9,Never-married,Other-service,Not_in_family,Asian-Pac-Islander,60,China,1928-01-11,0,0,0,0,0,0,0,0,None
+211,16.0,M,0,0,0,0,0,0,4.5,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,100079,9,Never-married,Other-service,Not_in_family,Asian-Pac-Islander,60,China,1928-01-11,0,0,0,0,0,0,0,0,None
 212,28.0,F,0,0,0,0,0,0,0.36,3.0,131.0,1.04,126.0,svhc,negative,Local-gov,100011,12,Never-married,Tech-support,Not_in_family,White,38,United-States,1989-03-27,0,0,0,0,1,0,0,0,None
 213,21.0,F,0,0,0,0,0,0,1.2,1.6,99.0,0.87,114.0,svhc,negative,Private,110331,5,Divorced,Adm-clerical,Other_relative,White,20,United-States,1996-08-26,0,0,1,0,1,0,0,0,None
 214,34.0,F,0,1,0,0,0,0,26.429999999999836,4.4,273.0,1.22,222.0,stmw,negative,Private,215616,9,Never-married,Other-service,Not_in_family,White,20,United-States,1983-04-05,0,0,0,0,0,1,0,0,None
@@ -218,18 +218,18 @@
 216,65.0,F,0,0,0,0,0,0,0.89,2.6,95.0,1.01,95.0,other,negative,Private,86308,13,Married-civ-spouse,Prof-specialty,Wife,Asian-Pac-Islander,40,Philippines,1952-10-19,0,0,0,0,0,0,0,0,None
 217,58.0,F,0,0,0,1,0,0,2.4,2.203304677115123,122.0,1.12,108.0,other,negative,Unknown,144210,7,Married-civ-spouse,Unknown,Wife,White,20,United-States,1959-04-21,0,0,0,0,0,0,0,0,None
 218,68.0,M,0,0,0,0,0,0,26.429999999999836,0.6,15.0,0.89,17.0,svi,negative,Private,311015,9,Never-married,Other-service,Not_in_family,White,40,United-States,1949-05-22,0,0,0,0,0,0,0,0,None
-219,61.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,164920,10,Never-married,Machine-op-inspct,Own_child,White,15,Germany,1956-06-26,0,0,0,0,0,0,0,0,None
+219,61.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,164920,10,Never-married,Machine-op-inspct,Own_child,White,15,Germany,1956-06-26,0,0,0,0,0,0,0,0,None
 220,57.0,F,0,0,0,0,0,0,2.9,1.5,85.0,0.84,102.0,other,negative,Self-emp-not-inc,67765,7,Widowed,Exec-managerial,Not_in_family,White,84,United-States,1960-07-28,0,0,0,0,0,0,0,0,None
 221,48.0,M,0,0,0,0,0,0,2.4,2.0,66.0,0.74,89.0,svhc,negative,Private,255822,4,Married-civ-spouse,Handlers-cleaners,Husband,White,40,United-States,1969-03-30,0,0,0,0,1,0,0,0,None
 222,37.0,F,0,0,0,0,0,0,0.25,2.3484262902732045,133.0,0.98,136.0,other,negative,Private,204596,10,Never-married,Sales,Own_child,White,32,United-States,1980-11-03,0,0,1,0,0,0,0,0,None
-223,46.0,M,0,0,0,0,0,0,4.2,2.2,68.0,0.8993086496090119,80.26686649194664,other,negative,Private,176773,1,Married-civ-spouse,Farming-fishing,Husband,Black,40,Haiti,1971-04-06,0,0,0,0,0,0,0,0,None
+223,46.0,M,0,0,0,0,0,0,4.2,2.2,68.0,0.98,80.26686649194664,other,negative,Private,176773,1,Married-civ-spouse,Farming-fishing,Husband,Black,40,Haiti,1971-04-06,0,0,0,0,0,0,0,0,None
 224,49.0,M,0,0,0,0,0,0,4.672150238473766,2.4,111.0,1.07,104.0,other,negative,Local-gov,187411,14,Never-married,Prof-specialty,Not_in_family,White,50,United-States,1969-02-12,0,0,0,0,0,1,0,0,None
 225,34.0,F,0,0,0,0,0,0,0.73,1.8,97.0,0.97,101.0,svi,negative,Private,188331,7,Separated,Sales,Unmarried,White,40,United-States,1983-05-10,0,0,0,0,0,0,0,0,None
 226,41.0,M,0,0,0,0,0,0,0.58,1.9394471986458839,102.0,0.84,121.0,other,negative,Private,257405,3,Never-married,Farming-fishing,Unmarried,Black,40,Mexico,1976-06-05,0,0,0,0,0,0,0,0,None
 227,70.0,F,0,0,0,1,0,0,1.2,2.0317973161101177,109.0,1.08,100.0,other,negative,Private,286732,9,Widowed,Sales,Not_in_family,White,17,United-States,1948-01-15,0,0,0,0,0,0,0,0,None
 228,65.0,M,0,0,0,0,0,0,12.0,1.2,118.0,0.9,130.0,other,negative,Unknown,143732,2,Widowed,Unknown,Not_in_family,White,30,United-States,1952-07-08,0,0,1,0,0,0,0,0,None
 229,37.0,M,0,0,0,0,0,0,2.6,2.3,68.0,0.94,72.0,other,negative,Private,444134,9,Married-civ-spouse,Transport-moving,Husband,White,40,United-States,1980-06-12,0,0,0,0,0,0,0,0,None
-230,20.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,182714,13,Never-married,Exec-managerial,Not_in_family,White,40,United-States,1997-05-29,0,0,1,0,0,0,0,0,None
+230,20.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,182714,13,Never-married,Exec-managerial,Not_in_family,White,40,United-States,1997-05-29,0,0,1,0,0,0,0,0,None
 231,58.0,M,0,0,0,0,0,0,4.672150238473766,1.5700467287889492,74.0,0.82,90.0,other,negative,State-gov,173623,13,Married-civ-spouse,Prof-specialty,Husband,White,30,United-States,1959-09-01,0,0,1,0,0,0,0,0,Positive
 232,66.0,F,0,0,0,0,0,0,3.8,1.9,119.0,1.0,119.0,other,negative,Private,161482,13,Divorced,Prof-specialty,Not_in_family,White,50,United-States,1952-02-05,0,0,0,0,0,0,0,0,None
 233,71.0,F,0,0,0,0,0,0,0.6,1.0,88.0,0.94,94.0,svhc,negative,Private,138266,9,Never-married,Adm-clerical,Own_child,White,25,United-States,1947-02-21,0,0,0,0,0,0,0,0,None
@@ -248,11 +248,11 @@
 246,60.0,M,0,0,0,0,0,0,5.73,1.8,109.0,1.05,104.0,svi,negative,Private,183017,9,Divorced,Machine-op-inspct,Own_child,White,40,United-States,1958-01-11,0,0,0,0,0,0,0,0,None
 247,71.0,F,0,0,0,0,0,0,4.7,1.7,93.0,0.98,94.0,other,negative,Private,212513,13,Divorced,Adm-clerical,Not_in_family,White,40,United-States,1946-10-01,0,0,1,0,0,0,0,0,None
 248,44.0,M,0,0,0,0,0,0,0.26,2.2692690467324326,127.0,1.03,124.0,other,negative,Private,236304,13,Married-civ-spouse,Exec-managerial,Husband,Black,60,United-States,1973-12-15,0,0,1,0,0,0,0,0,None
-249,21.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Unknown,182288,10,Never-married,Unknown,Own_child,White,40,United-States,1996-04-13,0,0,0,1,0,0,0,0,None
+249,21.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Unknown,182288,10,Never-married,Unknown,Own_child,White,40,United-States,1996-04-13,0,0,0,1,0,0,0,0,None
 250,22.0,F,0,0,0,0,0,0,1.3,1.9,94.0,0.89,105.0,other,negative,Private,192325,9,Widowed,Other-service,Unmarried,White,42,United-States,1995-08-30,0,0,0,0,0,0,0,0,None
 251,16.0,F,0,0,1,0,0,0,26.429999999999836,1.2,30.0,1.45,21.0,other,negative,Unknown,27457,14,Never-married,Unknown,Not_in_family,White,23,United-States,1921-01-03,0,0,0,0,0,0,0,0,None
 252,38.0,M,0,0,0,0,0,0,2.5,2.3,90.0,0.91,99.0,svhc,negative,Private,168191,9,Separated,Craft-repair,Not_in_family,White,2,Italy,1979-07-24,0,0,0,0,1,0,0,0,None
-253,51.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,173503,8,Divorced,Other-service,Unmarried,White,45,United-States,1966-12-06,0,0,0,0,0,0,0,0,None
+253,51.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,173503,8,Divorced,Other-service,Unmarried,White,45,United-States,1966-12-06,0,0,0,0,0,0,0,0,None
 254,55.0,F,0,0,0,0,0,0,9.2,1.8,87.0,1.04,84.0,svhc,negative,Private,234891,10,Divorced,Handlers-cleaners,Not_in_family,Amer-Indian-Eskimo,40,United-States,1962-05-08,0,0,0,0,0,0,0,0,None
 255,79.0,F,0,0,0,0,0,0,2.8,1.5,105.0,1.05,100.0,other,negative,Private,156163,10,Never-married,Adm-clerical,Own_child,Black,40,Unknown,1938-07-26,0,0,0,0,0,0,0,1,None
 256,69.0,F,0,0,0,0,0,0,0.69,1.6,89.0,0.96,93.0,other,negative,Local-gov,287831,10,Married-civ-spouse,Adm-clerical,Wife,Black,55,United-States,1948-05-22,0,0,0,0,0,0,0,0,None
@@ -261,12 +261,12 @@
 259,71.0,F,0,0,0,0,0,0,1.1,2.0186044421866556,108.0,1.05,104.0,other,negative,Private,68452,9,Separated,Machine-op-inspct,Unmarried,Black,40,United-States,1946-06-18,0,0,1,0,0,0,1,0,None
 260,66.0,M,0,0,0,0,0,0,0.9,1.9,72.0,0.84,86.0,other,negative,Local-gov,217304,13,Never-married,Adm-clerical,Not_in_family,Black,40,United-States,1951-11-18,0,0,0,0,0,0,0,0,None
 261,19.0,F,0,0,0,0,0,0,2.8,1.4,96.0,0.88,109.0,other,negative,Private,95388,10,Never-married,Exec-managerial,Not_in_family,Black,40,United-States,1998-04-03,0,0,0,0,0,0,0,0,None
-262,29.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,138471,10,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1989-02-21,0,0,0,0,0,0,0,0,None
+262,29.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,138471,10,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1989-02-21,0,0,0,0,0,0,0,0,None
 263,60.0,F,0,0,0,0,0,0,4.2,1.6,101.0,1.1,92.0,svi,negative,Private,196001,9,Married-civ-spouse,Sales,Wife,White,20,United-States,1957-04-21,0,0,0,0,0,0,0,0,None
 264,48.0,M,0,0,0,0,0,0,4.672150238473766,2.0713759378805032,112.0,0.9,124.0,other,negative,Private,215895,13,Never-married,Exec-managerial,Own_child,White,40,United-States,1970-02-21,0,0,0,0,0,0,0,0,None
 265,78.0,F,0,0,0,0,0,0,0.57,1.9,90.0,0.88,102.0,other,negative,Private,126613,13,Never-married,Sales,Not_in_family,White,50,United-States,1939-07-04,0,0,0,0,0,0,0,0,None
 266,46.0,F,0,0,0,0,0,0,0.5,1.7,132.0,1.02,130.0,other,negative,Private,105896,13,Divorced,Prof-specialty,Not_in_family,White,36,United-States,1971-09-24,0,0,1,0,0,0,0,0,None
-267,41.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,100961,9,Never-married,Other-service,Not_in_family,White,40,United-States,1976-11-24,0,0,0,0,0,0,0,0,None
+267,41.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,100961,9,Never-married,Other-service,Not_in_family,White,40,United-States,1976-11-24,0,0,0,0,0,0,0,0,None
 268,61.0,F,0,0,0,0,0,0,6.2,2.3,118.0,1.3,91.0,other,negative,Private,191573,12,Married-civ-spouse,Prof-specialty,Wife,White,40,United-States,1956-11-02,0,0,0,0,0,0,0,0,None
 269,36.0,F,0,0,0,0,0,0,0.24,2.4,119.0,1.1,109.0,other,negative,Private,183781,9,Widowed,Craft-repair,Unmarried,White,5,United-States,1981-11-18,0,0,0,0,0,0,0,0,None
 270,58.0,F,0,0,0,0,0,0,1.7,2.4,133.0,1.15,116.0,other,negative,Private,110083,9,Separated,Exec-managerial,Unmarried,White,40,United-States,1959-09-06,0,0,0,0,0,1,0,0,None
@@ -279,7 +279,7 @@
 277,64.0,F,0,0,0,0,0,0,1.0,2.2,99.0,1.07,92.0,other,negative,Private,85508,8,Never-married,Sales,Own_child,White,12,United-States,1953-09-25,0,0,0,0,0,0,0,0,None
 278,56.0,F,0,0,0,0,0,0,0.02,7.020200000000022,223.0,1.0,222.0,other,negative,Private,258836,10,Never-married,Other-service,Unmarried,Black,40,United-States,1962-02-19,0,0,0,0,0,0,0,0,None
 279,58.0,M,0,0,0,0,0,0,0.5,3.4,91.0,0.97,94.0,svi,negative,Private,146628,9,Married-civ-spouse,Transport-moving,Husband,White,33,United-States,1959-11-27,0,0,0,0,0,0,0,0,Positive
-280,15.0,M,0,0,0,0,0,0,3.4,4.5,97.0,0.9682899652791221,101.63018617299079,other,negative,Private,348092,9,Never-married,Other-service,Not_in_family,Black,40,Haiti,1930-03-01,0,0,0,0,0,0,0,0,None
+280,15.0,M,0,0,0,0,0,0,3.4,4.5,97.0,0.98,101.63018617299079,other,negative,Private,348092,9,Never-married,Other-service,Not_in_family,Black,40,Haiti,1930-03-01,0,0,0,0,0,0,0,0,None
 281,38.0,F,0,0,0,0,1,0,0.71,4.3,129.0,1.62,79.0,stmw,negative,Local-gov,272587,4,Widowed,Other-service,Not_in_family,White,15,United-States,1979-09-01,0,0,0,0,0,0,0,0,Positive
 282,81.0,F,0,0,0,0,0,0,2.5,1.8,76.0,1.02,75.0,svi,negative,Private,60552,9,Never-married,Adm-clerical,Own_child,White,40,United-States,1936-07-22,0,0,0,0,0,0,0,0,None
 283,66.0,M,0,0,0,0,0,0,4.5,1.3,89.0,0.73,121.0,svhc,negative,Private,191503,13,Married-civ-spouse,Prof-specialty,Husband,White,40,United-States,1952-02-22,0,0,0,0,1,0,0,0,Negative
@@ -314,9 +314,9 @@
 312,62.0,M,0,0,0,0,0,0,1.2,1.4,113.0,1.03,110.0,svi,negative,Federal-gov,38749,15,Married-civ-spouse,Prof-specialty,Husband,Asian-Pac-Islander,60,Philippines,1956-03-23,0,0,0,0,0,0,0,0,None
 313,38.0,F,0,0,0,0,0,0,0.5,2.2,88.0,0.96,92.0,svi,negative,Private,140782,6,Divorced,Exec-managerial,Unmarried,White,40,United-States,1979-08-16,0,0,0,0,0,0,0,0,None
 314,75.0,F,0,0,0,0,1,0,0.045,2.0,146.0,1.05,139.0,svi,negative,Private,176410,14,Married-civ-spouse,Prof-specialty,Wife,White,10,United-States,1942-12-04,0,0,0,0,0,0,0,0,Positive
-315,78.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,188643,9,Widowed,Adm-clerical,Not_in_family,White,30,United-States,1939-10-21,0,0,0,0,0,0,0,1,Negative
+315,78.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,188643,9,Widowed,Adm-clerical,Not_in_family,White,30,United-States,1939-10-21,0,0,0,0,0,0,0,1,Negative
 316,54.0,M,0,0,0,0,0,0,16.0,1.5,60.0,0.78,77.0,svi,negative,Private,181242,13,Married-civ-spouse,Exec-managerial,Husband,White,40,United-States,1963-12-18,0,0,0,0,0,1,0,0,None
-317,58.0,M,0,0,0,0,0,0,0.64,1.0,103.0,0.9825619616246621,106.05018334837925,svi,negative,Private,101266,12,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1959-01-06,0,0,0,0,0,0,0,0,None
+317,58.0,M,0,0,0,0,0,0,0.64,1.0,103.0,0.98,106.05018334837925,svi,negative,Private,101266,12,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1959-01-06,0,0,0,0,0,0,0,0,None
 318,68.0,F,0,0,0,0,0,0,1.4,2.4,149.0,1.18,126.0,other,negative,Local-gov,352797,9,Married-spouse-absent,Sales,Own_child,Black,40,United-States,1950-01-02,0,0,0,0,0,0,0,0,None
 319,51.0,M,0,0,0,0,0,0,2.4,2.5,106.0,0.81,130.0,svi,negative,Local-gov,61708,13,Married-civ-spouse,Exec-managerial,Husband,White,40,United-States,1966-10-07,0,0,0,0,0,0,0,0,None
 320,37.0,F,0,0,0,0,0,0,3.1,2.1,87.0,0.75,115.0,other,negative,Private,117549,7,Never-married,Sales,Own_child,Black,35,United-States,1980-06-17,0,0,0,0,0,0,0,0,None
@@ -331,7 +331,7 @@
 329,59.0,Unknown,0,0,0,1,0,0,0.25,2.4,109.0,0.97,113.0,other,negative,Private,56248,2,Married-civ-spouse,Machine-op-inspct,Husband,White,60,United-States,1959-02-08,0,0,0,0,0,0,0,0,None
 330,47.0,F,0,0,0,1,0,0,3.4,2.2,102.0,1.02,101.0,other,negative,Private,81961,10,Never-married,Other-service,Own_child,White,20,United-States,1970-07-21,0,0,0,0,0,0,0,0,None
 331,74.0,M,0,0,0,0,0,0,2.6,2.1,149.0,1.02,147.0,other,negative,Private,271756,9,Married-civ-spouse,Adm-clerical,Husband,Black,40,United-States,1943-09-08,0,0,0,0,0,0,0,0,None
-332,62.0,F,0,0,0,0,0,0,4.672150238473766,1.4,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,State-gov,99185,9,Never-married,Adm-clerical,Not_in_family,White,38,United-States,1955-06-21,0,0,0,0,0,0,0,0,None
+332,62.0,F,0,0,0,0,0,0,4.672150238473766,1.4,109.07240061162078,0.98,110.51815004876983,other,negative,State-gov,99185,9,Never-married,Adm-clerical,Not_in_family,White,38,United-States,1955-06-21,0,0,0,0,0,0,0,0,None
 333,76.0,M,0,0,0,0,0,0,2.1,1.3,93.0,1.01,91.0,svi,negative,Private,175232,13,Divorced,Sales,Not_in_family,White,40,United-States,1941-08-24,0,0,0,0,0,0,0,0,None
 334,32.0,M,0,0,0,0,0,0,0.2,1.7,85.0,0.84,101.0,other,negative,Private,185692,4,Married-civ-spouse,Farming-fishing,Husband,White,35,United-States,1986-02-02,0,0,0,0,0,0,0,1,None
 335,35.0,F,0,0,0,0,0,0,26.429999999999836,2.6,46.0,1.0,46.0,other,negative,Self-emp-not-inc,210377,6,Married-civ-spouse,Exec-managerial,Wife,Black,40,United-States,1982-10-22,0,0,0,0,0,0,1,0,None
@@ -355,10 +355,10 @@
 353,52.0,M,0,0,0,1,0,0,1.2,1.7,92.0,0.76,121.0,other,negative,Private,54260,11,Married-civ-spouse,Exec-managerial,Husband,White,60,United-States,1965-09-16,0,0,0,0,0,0,0,0,None
 354,54.0,M,0,0,0,0,0,0,0.1,1.9,102.0,0.93,110.0,svhc,negative,Private,191330,10,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1963-05-08,0,0,0,0,1,0,0,0,None
 355,20.0,F,0,0,0,0,0,0,2.6,3.3,121.0,1.08,112.0,svhc,negative,Private,98900,10,Divorced,Adm-clerical,Unmarried,White,40,United-States,1997-10-16,0,0,0,0,1,0,0,0,None
-356,56.0,F,0,0,0,0,0,0,0.4,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,402848,9,Married-spouse-absent,Adm-clerical,Other_relative,White,32,United-States,1961-05-14,0,0,0,0,0,0,0,0,None
+356,56.0,F,0,0,0,0,0,0,0.4,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,402848,9,Married-spouse-absent,Adm-clerical,Other_relative,White,32,United-States,1961-05-14,0,0,0,0,0,0,0,0,None
 357,53.0,F,0,0,0,0,0,0,0.1,2.2956547945793564,129.0,1.08,119.0,other,negative,Unknown,29841,9,Divorced,Unknown,Unmarried,White,50,United-States,1964-05-18,0,0,1,0,0,0,0,0,None
 358,16.0,F,0,0,0,0,0,0,2.7,1.9,112.0,1.26,89.0,other,negative,State-gov,177787,9,Never-married,Other-service,Unmarried,White,45,United-States,2001-08-15,0,0,1,0,0,0,0,0,None
-359,19.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,164724,13,Divorced,Sales,Unmarried,White,28,United-States,1998-11-05,0,0,0,0,0,0,0,0,None
+359,19.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,164724,13,Divorced,Sales,Unmarried,White,28,United-States,1998-11-05,0,0,0,0,0,0,0,0,None
 360,78.0,F,0,0,0,0,0,0,2.9,1.7,104.0,0.76,137.0,svi,negative,Private,172830,14,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1939-09-08,0,0,0,0,0,0,0,0,None
 361,39.0,M,0,0,1,0,0,0,3.6,1.8075184594112643,92.0,1.09,84.0,other,negative,Self-emp-not-inc,167081,14,Married-civ-spouse,Prof-specialty,Husband,White,55,United-States,1978-05-22,0,0,0,0,0,0,1,0,Negative
 362,72.0,F,0,0,0,0,0,0,1.0,1.7,93.0,0.78,119.0,svi,negative,Unknown,187161,9,Married-civ-spouse,Unknown,Own_child,White,20,United-States,1946-01-18,0,0,0,0,0,0,0,0,None
@@ -389,7 +389,7 @@
 387,21.0,F,0,0,0,0,0,0,5.1,1.7415540897939545,87.0,0.89,98.0,other,negative,Unknown,142642,9,Married-spouse-absent,Unknown,Unmarried,Black,40,United-States,1996-05-25,0,0,0,0,0,0,0,0,None
 388,79.0,M,0,0,0,0,0,0,4.672150238473766,3.1,162.0,0.78,209.0,other,negative,Private,241998,9,Never-married,Craft-repair,Not_in_family,White,40,United-States,1938-04-11,0,0,0,0,0,0,0,0,None
 389,55.0,M,1,0,0,0,0,0,0.2,1.8,52.0,0.95,55.0,other,negative,Private,217480,10,Separated,Adm-clerical,Not_in_family,Black,40,United-States,1963-01-18,0,0,0,0,0,0,0,0,Positive
-390,65.0,F,0,0,0,0,0,0,21.0,1.2,72.0,0.908823313839372,83.21353127553894,other,negative,Private,298605,7,Never-married,Adm-clerical,Own_child,White,15,United-States,1952-10-26,0,0,0,0,0,0,0,0,None
+390,65.0,F,0,0,0,0,0,0,21.0,1.2,72.0,0.98,83.21353127553894,other,negative,Private,298605,7,Never-married,Adm-clerical,Own_child,White,15,United-States,1952-10-26,0,0,0,0,0,0,0,0,None
 391,27.0,F,0,0,0,0,0,0,2.1,2.1,114.0,1.1,104.0,svhc,negative,Private,312766,13,Married-civ-spouse,Exec-managerial,Wife,White,40,United-States,1990-04-15,0,0,1,0,1,0,1,0,None
 392,52.0,M,1,0,0,0,0,0,4.672150238473766,1.899868576875498,99.0,0.92,107.0,other,negative,Self-emp-inc,195727,9,Married-civ-spouse,Sales,Husband,White,40,United-States,1965-03-23,0,0,1,0,0,0,0,0,None
 393,27.0,F,0,1,0,0,0,0,0.015,2.5,145.0,1.45,100.0,other,negative,Private,180497,13,Never-married,Tech-support,Own_child,Black,32,United-States,1990-05-18,0,0,0,1,0,0,0,0,None
@@ -405,7 +405,7 @@
 403,79.0,F,0,0,0,0,0,0,5.1,2.0,107.0,1.04,104.0,other,negative,Private,100333,7,Never-married,Machine-op-inspct,Not_in_family,White,36,United-States,1938-07-13,0,0,1,0,0,0,0,0,None
 404,18.0,F,0,0,0,0,0,0,0.98,2.678248138359753,158.0,1.31,120.0,other,negative,Private,204226,10,Never-married,Adm-clerical,Not_in_family,White,40,United-States,1999-11-18,0,0,0,0,0,0,0,0,None
 405,70.0,F,0,0,1,0,0,0,0.025,1.7,141.0,0.88,160.0,svi,negative,Unknown,155509,7,Divorced,Unknown,Unmarried,Black,10,Haiti,1947-10-12,0,0,0,0,0,0,0,0,None
-406,65.0,Unknown,0,0,0,0,0,0,10.0,2.0,78.0,0.923095310184912,87.63352845092739,other,negative,Private,152035,9,Never-married,Exec-managerial,Not_in_family,White,40,United-States,1952-11-16,0,0,0,0,0,0,0,0,None
+406,65.0,Unknown,0,0,0,0,0,0,10.0,2.0,78.0,0.98,87.63352845092739,other,negative,Private,152035,9,Never-married,Exec-managerial,Not_in_family,White,40,United-States,1952-11-16,0,0,0,0,0,0,0,0,None
 407,42.0,F,0,0,0,0,0,0,2.3,2.2,178.0,1.26,142.0,other,negative,Local-gov,336274,9,Divorced,Other-service,Not_in_family,White,40,United-States,1975-07-17,0,0,0,0,0,0,0,0,None
 408,15.0,Unknown,0,0,0,0,0,0,3.6,1.3,153.0,1.0,152.0,svhc,negative,Private,172169,10,Never-married,Handlers-cleaners,Unmarried,White,30,United-States,2002-04-11,0,0,0,0,1,0,0,0,None
 409,28.0,M,0,0,0,0,0,0,3.1,2.7,100.0,0.93,108.0,svhc,negative,Private,106672,13,Never-married,Sales,Own_child,White,2,United-States,1989-11-18,0,0,0,0,1,0,0,0,None
@@ -431,7 +431,7 @@
 429,50.0,F,0,1,0,0,0,0,0.03,3.4,131.0,1.02,129.0,other,negative,Self-emp-not-inc,67198,12,Widowed,Prof-specialty,Unmarried,White,50,United-States,1967-06-11,0,0,0,0,0,1,0,0,None
 430,45.0,F,0,0,0,0,0,0,0.07,2.8101768775943725,168.0,0.92,183.0,other,negative,Private,255176,9,Never-married,Adm-clerical,Own_child,White,20,United-States,1973-01-27,0,0,0,0,0,0,0,0,None
 431,45.0,F,0,0,0,0,0,0,1.7,2.5,106.0,0.97,110.0,svi,negative,Private,309903,6,Never-married,Other-service,Unmarried,White,25,United-States,1972-06-15,0,0,0,0,0,0,0,0,None
-432,59.0,F,0,0,0,0,0,0,1.8,1.7,119.0,1.0206206185461024,117.83684248274844,svi,negative,Self-emp-inc,148003,13,Married-civ-spouse,Adm-clerical,Wife,White,6,United-States,1959-03-16,0,0,0,0,0,0,0,0,None
+432,59.0,F,0,0,0,0,0,0,1.8,1.7,119.0,0.98,117.83684248274844,svi,negative,Self-emp-inc,148003,13,Married-civ-spouse,Adm-clerical,Wife,White,6,United-States,1959-03-16,0,0,0,0,0,0,0,0,None
 433,54.0,F,0,0,0,0,0,0,0.52,1.8602899551051122,96.0,0.69,140.0,svi,negative,Private,284701,13,Married-civ-spouse,Adm-clerical,Wife,White,40,United-States,1963-08-08,0,0,0,0,0,0,0,0,None
 434,71.0,F,0,0,0,0,0,0,0.02,2.2,152.0,0.78,196.0,svi,negative,Private,198286,10,Married-spouse-absent,Exec-managerial,Not_in_family,White,40,United-States,1947-03-21,0,0,0,0,0,0,0,0,None
 435,24.0,F,0,0,0,0,0,0,26.429999999999836,1.0,112.0,1.01,110.0,other,negative,Private,131220,9,Never-married,Adm-clerical,Own_child,Black,40,United-States,1993-06-03,0,0,1,0,0,0,0,0,None
@@ -452,7 +452,7 @@
 450,74.0,M,0,0,0,0,0,0,2.9,1.6,90.0,0.79,114.0,other,negative,Local-gov,67243,13,Married-civ-spouse,Protective-serv,Husband,White,45,United-States,1944-01-12,0,0,0,0,0,0,0,0,None
 451,26.0,F,0,0,0,0,0,0,4.5,2.1,113.0,1.02,111.0,svhc,negative,Private,369188,13,Married-civ-spouse,Prof-specialty,Wife,White,90,United-States,1991-10-25,0,0,0,0,0,0,0,0,None
 452,70.0,F,0,0,0,0,0,0,3.7,1.5040823591716395,69.0,0.83,83.0,other,negative,Private,176981,9,Never-married,Adm-clerical,Own_child,White,40,United-States,1948-03-17,0,0,0,0,0,0,1,0,None
-453,28.0,F,0,0,0,0,0,0,0.7,2.0,45.0,0.8445993302844417,63.323543986290936,svhc,negative,Private,67666,14,Never-married,Exec-managerial,Not_in_family,Black,38,United-States,1989-07-10,0,0,0,0,1,0,0,0,None
+453,28.0,F,0,0,0,0,0,0,0.7,2.0,45.0,0.98,63.323543986290936,svhc,negative,Private,67666,14,Never-married,Exec-managerial,Not_in_family,Black,38,United-States,1989-07-10,0,0,0,0,1,0,0,0,None
 454,29.0,F,0,0,0,0,0,0,15.0,2.0845688118039654,113.0,1.13,100.0,other,negative,Private,376683,9,Never-married,Sales,Own_child,Black,35,United-States,1988-06-13,0,0,1,0,0,0,0,0,None
 455,73.0,F,0,0,0,0,0,0,0.05,1.9,76.0,0.88,86.0,svi,negative,Local-gov,266433,10,Widowed,Tech-support,Unmarried,White,40,United-States,1945-01-21,0,0,0,0,0,0,0,0,None
 456,23.0,F,0,0,0,0,0,0,2.6,2.0,104.0,1.06,98.0,other,negative,Private,48947,11,Widowed,Other-service,Unmarried,White,13,United-States,1994-04-15,0,0,0,0,0,0,0,0,None
@@ -463,12 +463,12 @@
 461,47.0,M,0,0,0,0,0,0,0.7,1.9,99.0,0.79,125.0,svhc,negative,Private,213512,10,Married-civ-spouse,Sales,Husband,White,50,United-States,1970-06-17,0,0,0,0,0,0,0,0,None
 462,59.0,F,0,0,0,0,0,0,0.82,1.4,91.0,0.97,94.0,other,negative,Private,256278,9,Never-married,Other-service,Other_relative,Other,35,El-Salvador,1958-12-14,0,0,0,0,0,0,0,0,None
 463,34.0,F,0,0,0,0,0,0,1.7,1.9,104.0,1.13,92.0,svhc,negative,Private,182590,9,Never-married,Other-service,Own_child,White,40,United-States,1983-05-09,0,0,0,0,1,0,0,0,None
-464,54.0,M,0,0,0,0,0,0,2.3,1.7,105.0,0.9873192937398422,107.52351574017538,svi,negative,Private,278322,16,Married-civ-spouse,Sales,Husband,White,40,United-States,1963-10-06,0,0,0,0,0,0,0,0,None
+464,54.0,M,0,0,0,0,0,0,2.3,1.7,105.0,0.98,107.52351574017538,svi,negative,Private,278322,16,Married-civ-spouse,Sales,Husband,White,40,United-States,1963-10-06,0,0,0,0,0,0,0,0,None
 465,68.0,M,0,0,0,0,0,0,3.0,2.6,117.0,1.24,94.0,svi,negative,Federal-gov,219262,9,Never-married,Other-service,Own_child,White,40,United-States,1950-01-13,0,0,0,0,0,0,0,0,None
-466,39.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,216129,9,Never-married,Craft-repair,Not_in_family,Black,45,United-States,1978-06-30,0,0,0,0,0,0,0,0,None
+466,39.0,F,0,0,0,0,1,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,216129,9,Never-married,Craft-repair,Not_in_family,Black,45,United-States,1978-06-30,0,0,0,0,0,0,0,0,None
 467,49.0,M,0,0,0,0,0,0,4.672150238473766,1.7415540897939545,87.0,1.2,73.0,other,negative,State-gov,375931,10,Never-married,Adm-clerical,Own_child,White,15,United-States,1968-08-19,0,0,0,0,0,0,0,0,None
 468,67.0,F,0,0,0,0,0,0,0.02,2.1901118031916607,121.0,0.96,127.0,other,negative,Self-emp-not-inc,141820,6,Divorced,Other-service,Own_child,White,27,United-States,1950-04-25,0,0,1,0,0,0,0,0,None
-469,59.0,M,0,0,0,0,0,0,0.9,2.0,88.0,0.946881970760812,95.00019040990813,other,negative,Private,465326,9,Married-civ-spouse,Farming-fishing,Husband,White,40,United-States,1958-04-01,0,0,0,0,0,0,0,0,None
+469,59.0,M,0,0,0,0,0,0,0.9,2.0,88.0,0.98,95.00019040990813,other,negative,Private,465326,9,Married-civ-spouse,Farming-fishing,Husband,White,40,United-States,1958-04-01,0,0,0,0,0,0,0,0,None
 470,29.0,M,0,0,0,0,0,0,1.3,0.9,74.0,0.71,104.0,svi,negative,Private,181916,10,Never-married,Machine-op-inspct,Own_child,White,40,United-States,1989-03-15,0,0,0,0,0,0,0,1,None
 471,66.0,F,0,0,1,0,0,0,1.7,1.4,89.0,0.87,103.0,svi,negative,Local-gov,292285,7,Never-married,Prof-specialty,Own_child,White,25,United-States,1952-03-15,0,0,0,0,0,1,0,0,None
 472,27.0,F,0,0,0,0,0,0,2.2,2.3,105.0,0.97,109.0,other,negative,Self-emp-not-inc,175710,9,Never-married,Sales,Own_child,White,40,Unknown,1991-02-27,0,0,0,0,0,0,0,0,None
@@ -500,13 +500,13 @@
 498,73.0,M,0,0,0,0,0,0,0.79,1.5,110.0,0.88,125.0,svi,negative,Private,82720,9,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1944-08-06,0,0,0,0,0,0,0,0,None
 499,27.0,F,0,0,0,0,0,0,2.1,1.5172752330951016,70.0,0.48,146.0,other,negative,Private,63596,9,Divorced,Other-service,Not_in_family,White,30,United-States,1990-06-26,0,0,0,0,0,0,1,0,None
 500,64.0,Unknown,0,0,0,0,0,0,1.4,1.2,119.0,0.98,121.0,other,negative,Private,207513,10,Married-civ-spouse,Craft-repair,Husband,White,56,United-States,1954-02-18,0,0,0,0,0,0,0,0,None
-501,77.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Self-emp-not-inc,210830,9,Never-married,Other-service,Not_in_family,White,40,United-States,1940-08-10,0,0,0,0,0,0,0,0,None
+501,77.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Self-emp-not-inc,210830,9,Never-married,Other-service,Not_in_family,White,40,United-States,1940-08-10,0,0,0,0,0,0,0,0,None
 502,79.0,F,0,0,0,0,0,0,1.4,1.6,110.0,0.85,129.0,svhc,negative,Federal-gov,160636,9,Never-married,Adm-clerical,Unmarried,White,40,Mexico,1938-05-01,0,0,0,0,1,0,0,0,None
 503,67.0,F,0,0,0,0,0,0,2.7,1.6,127.0,1.0,126.0,svhc,negative,Local-gov,313852,13,Divorced,Prof-specialty,Not_in_family,White,40,United-States,1951-02-08,0,0,0,0,0,0,0,0,None
 504,24.0,M,0,0,0,0,0,0,3.3,1.2,70.0,0.87,80.0,svi,negative,Private,340288,5,Married-civ-spouse,Handlers-cleaners,Husband,White,40,United-States,1994-01-25,0,0,1,0,0,0,0,1,None
 505,43.0,F,0,0,0,0,0,0,26.429999999999836,0.5,5.598,1.05,6.6768,other,negative,Self-emp-not-inc,229328,8,Widowed,Sales,Unmarried,Asian-Pac-Islander,40,South,1974-11-22,0,0,0,0,0,0,0,0,None
 506,50.0,M,0,0,0,0,0,0,0.53,2.1,94.0,0.95,99.0,svi,negative,Private,154571,10,Never-married,Craft-repair,Other_relative,Asian-Pac-Islander,40,Unknown,1967-06-24,0,0,0,0,0,0,0,0,None
-507,52.0,F,0,0,0,0,0,0,2.7,2.1,116.0,1.0134846203733323,115.62684389505421,other,negative,Private,259818,9,Divorced,Other-service,Unmarried,Black,40,United-States,1965-08-11,0,0,0,0,0,0,0,0,None
+507,52.0,F,0,0,0,0,0,0,2.7,2.1,116.0,0.98,115.62684389505421,other,negative,Private,259818,9,Divorced,Other-service,Unmarried,Black,40,United-States,1965-08-11,0,0,0,0,0,0,0,0,None
 508,22.0,M,0,0,0,0,0,0,1.7,2.3,127.0,1.0,127.0,other,negative,Private,422933,14,Never-married,Exec-managerial,Own_child,White,40,United-States,1995-12-12,0,0,0,0,0,0,0,0,None
 509,32.0,M,0,0,0,0,0,0,0.96,2.203304677115123,122.0,1.07,114.0,other,negative,Private,39182,12,Never-married,Handlers-cleaners,Own_child,White,40,United-States,1985-09-29,0,0,0,0,0,1,0,0,None
 510,29.0,F,0,0,0,0,0,0,0.05,2.0,127.0,0.92,138.0,other,negative,Private,62539,9,Divorced,Adm-clerical,Unmarried,White,38,United-States,1988-06-02,0,0,1,0,0,0,0,0,Negative
@@ -526,7 +526,7 @@
 524,27.0,F,0,0,0,0,0,0,0.035,2.2,88.0,0.9,98.0,other,negative,Private,245402,13,Divorced,Tech-support,Not_in_family,White,40,United-States,1990-05-05,0,0,0,0,0,0,0,0,None
 525,71.0,M,0,0,0,0,0,0,3.2,1.8,86.0,0.81,106.0,svi,negative,Self-emp-not-inc,125933,10,Married-civ-spouse,Sales,Husband,White,50,United-States,1946-10-25,0,0,0,0,0,0,0,0,None
 526,50.0,F,0,0,0,0,0,0,4.0,2.176918929268199,120.0,0.8,150.0,other,negative,Private,336162,10,Never-married,Adm-clerical,Other_relative,White,40,United-States,1967-07-08,0,0,1,0,0,0,0,0,None
-527,45.0,F,0,0,0,0,0,0,0.2,2.0,87.0,0.9445033047032221,94.26352421401006,other,negative,Private,22405,9,Separated,Other-service,Unmarried,Amer-Indian-Eskimo,72,United-States,1972-10-06,0,0,0,0,0,0,0,0,None
+527,45.0,F,0,0,0,0,0,0,0.2,2.0,87.0,0.98,94.26352421401006,other,negative,Private,22405,9,Separated,Other-service,Unmarried,Amer-Indian-Eskimo,72,United-States,1972-10-06,0,0,0,0,0,0,0,0,None
 528,21.0,F,0,0,0,0,0,0,4.672150238473766,3.7,162.0,1.47,110.0,other,negative,Self-emp-not-inc,190027,14,Never-married,Exec-managerial,Not_in_family,Black,70,United-States,1997-02-21,0,0,0,0,0,1,0,0,None
 529,24.0,F,0,0,0,0,0,0,0.82,2.5,97.0,0.91,107.0,other,negative,Private,174163,14,Never-married,Prof-specialty,Not_in_family,White,40,United-States,1993-08-16,0,0,0,0,0,0,0,0,None
 530,35.0,F,0,0,0,0,0,0,2.3,2.3,83.0,1.19,69.0,svhc,negative,Unknown,212210,10,Never-married,Unknown,Own_child,White,15,United-States,1982-04-08,0,0,0,0,0,0,0,0,None
@@ -567,13 +567,13 @@
 565,84.0,F,0,0,0,0,0,0,4.6,1.5,83.0,0.78,106.0,svi,negative,Private,142587,7,Never-married,Sales,Own_child,White,10,United-States,1933-10-29,0,0,0,0,0,0,0,0,None
 566,25.0,Unknown,0,0,1,0,0,0,1.1,2.6,212.0,1.75,121.0,stmw,negative,Private,289909,9,Never-married,Machine-op-inspct,Not_in_family,White,40,United-States,1992-10-12,0,0,1,0,0,0,0,0,None
 567,76.0,F,0,0,0,0,0,0,0.68,2.0,107.0,0.97,110.0,other,negative,Private,232820,11,Divorced,Exec-managerial,Unmarried,Amer-Indian-Eskimo,40,United-States,1941-10-04,0,0,0,0,0,0,0,0,None
-568,29.0,M,0,0,0,0,0,0,0.25,2.0,35.0,0.8208126697085416,55.95688202731019,svhc,negative,Private,155972,9,Married-civ-spouse,Exec-managerial,Husband,White,55,United-States,1988-09-22,0,0,0,0,1,0,0,0,Positive
+568,29.0,M,0,0,0,0,0,0,0.25,2.0,35.0,0.98,55.95688202731019,svhc,negative,Private,155972,9,Married-civ-spouse,Exec-managerial,Husband,White,55,United-States,1988-09-22,0,0,0,0,1,0,0,0,Positive
 569,60.0,F,0,0,0,0,0,0,26.429999999999836,1.8,65.0,0.99,66.0,svi,negative,Unknown,374116,9,Never-married,Unknown,Not_in_family,White,36,United-States,1957-04-12,0,0,0,0,0,0,0,0,None
 570,58.0,M,0,0,0,0,0,0,2.1,2.4,95.0,0.95,100.0,other,negative,Private,155914,10,Married-civ-spouse,Farming-fishing,Husband,White,40,United-States,1959-06-23,0,0,0,0,0,0,0,0,None
 571,75.0,M,0,0,0,0,0,0,2.0,1.5700467287889492,74.0,1.05,70.0,other,negative,Private,68798,9,Never-married,Other-service,Not_in_family,White,30,United-States,1942-09-22,0,0,0,0,0,0,0,0,None
-572,25.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,94774,6,Never-married,Other-service,Own_child,White,10,United-States,1992-10-26,0,0,0,0,0,0,0,0,None
-573,83.0,F,0,0,0,0,0,0,0.68,2.2,105.0,0.9873192937398422,107.52351574017538,other,negative,Local-gov,384627,14,Married-civ-spouse,Prof-specialty,Wife,White,18,United-States,1934-07-13,0,0,0,0,0,0,0,0,Positive
-574,87.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,186361,11,Never-married,Other-service,Own_child,White,40,United-States,1931-03-01,0,0,0,0,0,0,0,0,None
+572,25.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,94774,6,Never-married,Other-service,Own_child,White,10,United-States,1992-10-26,0,0,0,0,0,0,0,0,None
+573,83.0,F,0,0,0,0,0,0,0.68,2.2,105.0,0.98,107.52351574017538,other,negative,Local-gov,384627,14,Married-civ-spouse,Prof-specialty,Wife,White,18,United-States,1934-07-13,0,0,0,0,0,0,0,0,Positive
+574,87.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,186361,11,Never-married,Other-service,Own_child,White,40,United-States,1931-03-01,0,0,0,0,0,0,0,0,None
 575,62.0,F,0,0,0,0,0,0,0.3,2.0,89.0,0.89,99.0,other,negative,Private,408585,4,Married-civ-spouse,Farming-fishing,Own_child,White,45,Mexico,1955-09-12,0,0,0,0,0,0,0,0,None
 576,30.0,M,0,0,0,0,0,0,3.2,1.873482829028574,97.0,0.69,141.0,other,negative,Private,289227,10,Never-married,Handlers-cleaners,Own_child,Black,16,United-States,1987-12-17,0,0,0,0,0,0,0,0,None
 577,86.0,Unknown,0,0,0,0,0,0,2.0,2.32204054242628,131.0,1.01,131.0,other,negative,Private,92141,9,Widowed,Machine-op-inspct,Not_in_family,Black,40,United-States,1931-08-25,0,0,0,0,0,0,0,0,None
@@ -584,7 +584,7 @@
 582,36.0,F,0,0,0,0,0,0,6.0,1.7,121.0,1.12,108.0,other,negative,State-gov,214731,10,Never-married,Adm-clerical,Not_in_family,White,15,United-States,1981-12-31,0,0,0,0,0,0,0,0,None
 583,44.0,M,0,0,0,0,0,0,3.0,1.4,103.0,0.88,118.0,svhc,negative,Private,143822,9,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1973-12-19,0,1,0,0,0,0,0,0,None
 584,31.0,F,0,0,0,0,0,0,3.4,1.9658329464928077,104.0,0.94,112.0,stmw,negative,Unknown,50626,10,Never-married,Unknown,Own_child,Black,20,United-States,1987-02-13,0,0,0,0,0,0,0,0,None
-585,41.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,129024,10,Never-married,Other-service,Own_child,White,25,United-States,1976-11-16,0,0,0,0,0,1,1,0,None
+585,41.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,129024,10,Never-married,Other-service,Own_child,White,25,United-States,1976-11-16,0,0,0,0,0,1,1,0,None
 586,48.0,F,0,0,0,0,0,0,3.0,1.7811327115643405,90.0,1.14,79.0,other,negative,Private,118941,10,Never-married,Exec-managerial,Not_in_family,White,40,United-States,1969-12-07,0,0,0,0,0,1,0,0,None
 587,17.0,F,0,0,0,0,0,0,1.6,1.1,52.0,0.36,145.0,other,decreased binding protein,Private,281768,9,Never-married,Other-service,Not_in_family,Black,40,United-States,2000-06-29,0,0,0,0,0,0,0,0,None
 588,50.0,F,0,0,0,0,0,0,1.1,2.2,81.0,0.94,86.0,svi,negative,Federal-gov,348059,12,Separated,Prof-specialty,Unmarried,White,40,United-States,1967-06-19,0,0,0,0,0,0,0,0,None
@@ -600,12 +600,12 @@
 598,58.0,F,0,0,0,0,0,0,0.21,0.9,122.0,1.04,117.0,svi,negative,Private,366139,10,Married-civ-spouse,Tech-support,Wife,White,40,United-States,1959-10-17,0,0,0,0,0,0,0,0,None
 599,69.0,F,0,0,0,0,0,0,4.9,2.1241474335743513,116.0,1.1,105.0,other,negative,State-gov,190027,10,Never-married,Other-service,Own_child,Black,40,United-States,1948-07-21,0,0,1,0,0,0,0,0,None
 600,29.0,F,0,0,0,0,0,0,3.0,2.2,86.0,1.09,79.0,other,negative,Private,39263,14,Never-married,Exec-managerial,Not_in_family,White,35,United-States,1989-01-03,0,0,0,0,0,0,0,0,Positive
-601,27.0,F,0,1,0,0,0,0,2.3,2.6,100.0,0.9754259634518921,103.84018476068502,other,negative,Private,180339,9,Never-married,Other-service,Other_relative,White,35,United-States,1990-06-07,0,0,0,0,0,0,0,0,None
+601,27.0,F,0,1,0,0,0,0,2.3,2.6,100.0,0.98,103.84018476068502,other,negative,Private,180339,9,Never-married,Other-service,Other_relative,White,35,United-States,1990-06-07,0,0,0,0,0,0,0,0,None
 602,71.0,M,0,0,0,0,0,0,1.9,1.2,61.0,0.8,76.0,other,negative,Local-gov,170482,9,Married-civ-spouse,Protective-serv,Husband,Black,40,United-States,1946-04-13,0,0,0,0,0,0,0,0,Negative
 603,59.0,F,0,0,0,0,0,0,0.4,2.1,78.0,0.82,95.0,other,negative,Private,125577,9,Separated,Adm-clerical,Unmarried,Black,40,United-States,1958-09-07,0,0,0,0,0,0,0,0,None
 604,63.0,M,1,0,0,0,0,0,4.672150238473766,1.2798035024727863,52.0,0.85,61.0,other,negative,Private,124090,6,Married-civ-spouse,Transport-moving,Husband,White,40,United-States,1955-01-22,0,0,0,0,0,0,0,0,None
 605,31.0,F,0,0,0,0,0,0,0.3,2.7,108.0,1.05,103.0,svhc,negative,Unknown,99349,13,Widowed,Unknown,Not_in_family,White,15,United-States,1986-05-28,0,0,0,0,0,0,0,0,None
-606,62.0,F,0,0,0,0,0,0,4.672150238473766,1.3,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Local-gov,212490,11,Divorced,Adm-clerical,Not_in_family,Black,40,United-States,1955-11-19,0,0,0,0,0,0,0,0,None
+606,62.0,F,0,0,0,0,0,0,4.672150238473766,1.3,109.07240061162078,0.98,110.51815004876983,other,negative,Local-gov,212490,11,Divorced,Adm-clerical,Not_in_family,Black,40,United-States,1955-11-19,0,0,0,0,0,0,0,0,None
 607,84.0,F,0,0,0,0,0,0,0.3,2.6254766426659053,154.0,0.97,159.0,other,negative,Self-emp-not-inc,58700,5,Never-married,Farming-fishing,Other_relative,Other,40,Mexico,1933-11-21,0,0,1,0,0,0,0,0,None
 608,69.0,F,0,0,0,0,0,0,21.0,0.8,53.0,0.86,61.0,svi,negative,Private,299508,9,Divorced,Tech-support,Unmarried,Black,55,United-States,1948-08-05,0,0,0,0,0,0,0,0,None
 609,48.0,F,0,0,0,0,0,0,0.15,2.7,119.0,1.12,106.0,svi,negative,Private,97925,9,Divorced,Adm-clerical,Not_in_family,White,40,United-States,1969-06-14,0,0,0,0,0,0,0,0,None
@@ -620,13 +620,13 @@
 618,40.0,F,0,0,0,0,0,0,0.15,1.7,132.0,0.93,141.0,other,negative,Unknown,191776,10,Married-civ-spouse,Unknown,Wife,White,8,United-States,1977-10-13,0,0,0,0,0,0,0,0,None
 619,53.0,F,0,0,0,0,1,0,0.015,1.9526400725693458,103.0,1.08,95.0,svi,negative,Private,341943,10,Never-married,Exec-managerial,Not_in_family,White,50,United-States,1964-05-12,0,0,0,0,0,0,0,0,None
 620,73.0,F,0,0,0,0,0,0,2.5,2.1,123.0,1.03,119.0,svi,negative,Private,199266,9,Never-married,Other-service,Not_in_family,White,45,United-States,1944-04-15,0,0,0,0,0,0,0,0,None
-621,68.0,Unknown,0,0,0,0,0,0,2.5,3.5,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,373403,13,Married-civ-spouse,Prof-specialty,Husband,White,40,United-States,1950-02-22,0,0,0,0,0,0,0,0,None
+621,68.0,Unknown,0,0,0,0,0,0,2.5,3.5,109.07240061162078,0.98,110.51815004876983,other,negative,Private,373403,13,Married-civ-spouse,Prof-specialty,Husband,White,40,United-States,1950-02-22,0,0,0,0,0,0,0,0,None
 622,47.0,F,0,0,0,0,0,0,0.6,2.0,142.0,1.0,142.0,svi,negative,Unknown,426589,9,Never-married,Unknown,Own_child,White,15,United-States,1970-03-25,0,0,0,0,0,0,0,0,None
 623,55.0,F,0,0,0,0,0,0,2.6,1.9,115.0,1.02,114.0,svhc,negative,Private,242552,3,Married-civ-spouse,Machine-op-inspct,Wife,White,37,Honduras,1962-10-09,0,0,0,0,1,0,0,0,None
-624,33.0,F,0,0,0,0,0,0,4.672150238473766,1.9,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Local-gov,97176,9,Widowed,Other-service,Not_in_family,White,47,United-States,1984-11-19,0,0,0,0,0,0,0,0,None
+624,33.0,F,0,0,0,0,0,0,4.672150238473766,1.9,109.07240061162078,0.98,110.51815004876983,other,negative,Local-gov,97176,9,Widowed,Other-service,Not_in_family,White,47,United-States,1984-11-19,0,0,0,0,0,0,0,0,None
 625,52.0,F,0,0,0,0,0,0,1.8,2.3,128.0,1.22,105.0,other,negative,Private,227026,13,Never-married,Craft-repair,Unmarried,White,40,Nicaragua,1966-01-29,0,0,0,0,0,0,0,0,None
 626,67.0,F,0,0,0,0,1,0,1.3,2.2,104.0,0.92,114.0,other,negative,Federal-gov,213274,11,Divorced,Craft-repair,Unmarried,White,40,United-States,1950-04-29,0,0,0,0,0,0,0,1,Positive
-627,33.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,102568,13,Never-married,Prof-specialty,Not_in_family,White,40,United-States,1984-11-17,0,0,0,0,0,0,0,0,None
+627,33.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,102568,13,Never-married,Prof-specialty,Not_in_family,White,40,United-States,1984-11-17,0,0,0,0,0,0,0,0,None
 628,50.0,F,0,0,0,0,0,0,26.429999999999836,0.4,17.0,1.14,15.0,svi,negative,Private,114424,10,Separated,Machine-op-inspct,Other_relative,Black,37,United-States,1967-05-25,0,0,0,0,0,0,0,0,None
 629,60.0,F,0,0,0,0,0,0,8.9,1.5832396027124114,75.0,0.97,77.0,other,negative,Unknown,123632,13,Never-married,Unknown,Not_in_family,Black,35,United-States,1958-01-14,0,0,0,0,0,0,1,0,None
 630,22.0,F,0,0,0,0,0,0,2.6,2.361619164196666,134.0,1.14,118.0,other,negative,Private,271559,9,Married-civ-spouse,Machine-op-inspct,Wife,White,30,Columbia,1996-02-01,0,0,0,0,0,0,0,0,None
@@ -645,17 +645,17 @@
 643,76.0,M,0,0,0,0,0,0,2.7,1.4,91.0,0.85,108.0,svi,negative,Private,205100,10,Married-civ-spouse,Sales,Husband,White,45,United-States,1942-03-09,0,0,0,0,0,0,0,0,None
 644,54.0,F,0,0,0,0,0,0,0.58,2.6,100.0,1.01,99.0,other,negative,Unknown,117789,10,Never-married,Unknown,Own_child,White,40,United-States,1963-07-25,0,0,1,0,0,0,1,0,None
 645,77.0,F,0,0,0,0,0,0,1.6,1.5,117.0,0.86,136.0,svi,negative,Private,425127,5,Married-civ-spouse,Other-service,Other_relative,White,35,United-States,1940-10-31,0,0,0,0,0,0,0,0,None
-646,28.0,F,0,0,0,0,0,0,3.4,1.9,86.0,0.942124638645632,93.52685801811198,other,negative,Private,58350,13,Never-married,Prof-specialty,Not_in_family,White,50,United-States,1989-04-22,0,0,0,0,0,0,0,0,None
+646,28.0,F,0,0,0,0,0,0,3.4,1.9,86.0,0.98,93.52685801811198,other,negative,Private,58350,13,Never-married,Prof-specialty,Not_in_family,White,50,United-States,1989-04-22,0,0,0,0,0,0,0,0,None
 647,80.0,M,0,0,0,0,0,0,0.2,1.8,111.0,0.97,114.0,svi,negative,Private,274158,13,Married-civ-spouse,Protective-serv,Husband,Black,40,United-States,1937-05-24,0,0,0,0,0,1,0,0,Positive
 648,82.0,F,0,0,0,0,0,0,1.3,1.4,131.0,1.08,121.0,svi,negative,Private,69911,10,Never-married,Sales,Own_child,White,15,United-States,1935-12-26,0,0,0,0,0,1,0,0,None
-649,40.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,146225,6,Never-married,Other-service,Own_child,Amer-Indian-Eskimo,40,United-States,1977-11-06,0,0,1,0,0,1,0,0,None
+649,40.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,146225,6,Never-married,Other-service,Own_child,Amer-Indian-Eskimo,40,United-States,1977-11-06,0,0,1,0,0,1,0,0,None
 650,73.0,M,0,0,0,0,0,0,1.4,1.7415540897939545,87.0,0.92,95.0,svi,negative,Private,219155,11,Married-civ-spouse,Craft-repair,Husband,White,45,United-States,1945-03-11,0,0,0,0,0,0,0,0,None
 651,71.0,M,0,0,0,0,0,0,0.1,1.4,120.0,0.87,138.0,other,negative,Private,395206,10,Never-married,Transport-moving,Not_in_family,White,40,United-States,1946-10-11,0,0,0,0,0,0,0,0,None
 652,39.0,F,0,0,0,0,0,0,0.02,4.0,209.0,1.06,197.0,other,negative,Private,174794,14,Never-married,Prof-specialty,Not_in_family,White,40,England,1978-10-18,0,0,0,0,0,1,0,0,None
 653,72.0,M,0,0,0,0,0,0,2.3,2.0,106.0,1.01,105.0,svi,negative,Private,127264,10,Married-civ-spouse,Craft-repair,Husband,White,34,United-States,1945-12-28,0,0,0,0,0,0,0,0,None
 654,25.0,F,0,0,0,0,0,0,3.0,2.1,93.0,1.01,92.0,other,negative,Private,114673,14,Never-married,Prof-specialty,Unmarried,Amer-Indian-Eskimo,40,United-States,1993-02-17,0,0,0,0,0,0,1,0,None
 655,78.0,F,0,0,0,0,0,0,25.0,0.9,50.0,0.84,60.0,svi,negative,Private,166461,7,Divorced,Machine-op-inspct,Unmarried,Black,40,United-States,1940-02-18,0,0,0,0,0,0,1,0,Positive
-656,48.0,F,0,0,0,0,0,0,4.9,1.9,101.0,0.9778046295094822,104.57685095658309,other,negative,State-gov,112137,13,Never-married,Prof-specialty,Not_in_family,Other,40,Canada,1969-08-28,0,0,0,0,0,0,0,0,None
+656,48.0,F,0,0,0,0,0,0,4.9,1.9,101.0,0.98,104.57685095658309,other,negative,State-gov,112137,13,Never-married,Prof-specialty,Not_in_family,Other,40,Canada,1969-08-28,0,0,0,0,0,0,0,0,None
 657,73.0,F,0,0,0,0,0,0,0.56,1.3,70.0,0.93,75.0,svi,negative,Private,175130,7,Divorced,Transport-moving,Unmarried,White,40,United-States,1944-06-07,0,0,0,0,0,0,0,0,None
 658,34.0,M,0,0,0,0,0,0,0.03,1.6,96.0,0.97,99.0,other,negative,Private,146659,16,Married-civ-spouse,Prof-specialty,Husband,White,50,United-States,1983-07-16,0,0,0,0,0,0,0,0,None
 659,79.0,F,0,0,0,0,0,0,1.3,0.9,102.0,0.95,107.0,svi,negative,Private,154430,13,Never-married,Exec-managerial,Not_in_family,White,35,United-States,1938-11-19,0,0,0,0,0,0,0,1,None
@@ -668,12 +668,12 @@
 666,75.0,M,0,0,0,0,0,0,0.6,1.5,63.0,0.68,92.0,other,negative,Private,365465,9,Married-civ-spouse,Craft-repair,Husband,White,40,United-States,1942-11-20,0,0,0,0,0,0,0,0,None
 667,52.0,M,1,0,0,0,0,0,4.672150238473766,1.886675702952036,98.0,0.71,138.0,other,negative,Self-emp-not-inc,48160,13,Married-civ-spouse,Exec-managerial,Husband,White,40,United-States,1965-10-10,0,0,0,0,0,0,0,0,None
 668,29.0,F,0,0,0,0,0,0,1.6,2.7,87.0,0.85,102.0,other,negative,Private,402771,11,Never-married,Exec-managerial,Not_in_family,White,23,United-States,1988-08-01,0,0,0,0,0,0,0,0,None
-669,39.0,F,0,0,0,0,0,0,24.0,1.9,65.0,0.8921726514362419,78.05686790425241,other,negative,Self-emp-not-inc,158352,14,Divorced,Prof-specialty,Not_in_family,White,25,United-States,1978-10-01,0,0,0,0,0,0,0,0,None
+669,39.0,F,0,0,0,0,0,0,24.0,1.9,65.0,0.98,78.05686790425241,other,negative,Self-emp-not-inc,158352,14,Divorced,Prof-specialty,Not_in_family,White,25,United-States,1978-10-01,0,0,0,0,0,0,0,0,None
 670,33.0,M,0,0,0,0,0,0,1.9,2.1,69.0,0.74,93.0,other,negative,Private,68111,9,Divorced,Craft-repair,Not_in_family,White,45,United-States,1984-05-28,0,0,0,0,0,0,0,0,None
 671,83.0,F,0,0,0,0,0,0,7.0,1.5304681070185633,71.0,0.78,90.0,other,negative,Private,137363,10,Never-married,Other-service,Own_child,White,20,United-States,1934-08-06,0,0,0,0,0,0,0,0,None
 672,41.0,F,0,0,0,0,0,0,0.82,1.4,129.0,0.88,147.0,svhc,negative,Private,357118,13,Widowed,Exec-managerial,Not_in_family,White,40,United-States,1976-04-13,0,0,0,0,1,0,0,0,None
 673,61.0,F,0,0,0,0,0,0,0.9,2.3,124.0,1.17,106.0,svi,negative,Private,123472,9,Never-married,Other-service,Own_child,White,40,United-States,1956-11-26,0,0,0,0,0,0,0,0,None
-674,61.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Unknown,194660,9,Married-civ-spouse,Unknown,Husband,White,40,United-States,1956-09-05,0,0,0,0,0,0,0,0,None
+674,61.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Unknown,194660,9,Married-civ-spouse,Unknown,Husband,White,40,United-States,1956-09-05,0,0,0,0,0,0,0,0,None
 675,77.0,M,0,0,0,1,0,0,0.93,1.9,121.0,1.36,89.0,other,negative,Private,106900,13,Married-civ-spouse,Machine-op-inspct,Husband,White,40,United-States,1941-02-20,0,0,1,0,0,0,1,0,None
 676,70.0,F,0,0,0,0,0,0,0.6,2.5,98.0,1.06,92.0,other,negative,Private,207631,3,Never-married,Machine-op-inspct,Not_in_family,White,52,Mexico,1948-01-29,0,0,0,0,0,0,0,0,None
 677,28.0,F,0,0,0,0,0,0,2.2,1.9,86.0,1.06,81.0,svhc,negative,Federal-gov,86150,13,Married-civ-spouse,Adm-clerical,Wife,Asian-Pac-Islander,40,United-States,1989-07-11,0,0,0,0,0,0,0,0,Positive
@@ -696,11 +696,11 @@
 694,28.0,M,0,0,0,0,0,0,1.1,2.0,105.0,0.9,116.0,svhc,negative,Private,414916,9,Never-married,Tech-support,Other_relative,White,40,United-States,1990-03-14,0,0,0,0,0,0,0,0,None
 695,56.0,F,0,0,0,0,0,0,9.5,2.110954559650889,115.0,1.31,88.0,other,negative,Private,231832,10,Married-civ-spouse,Machine-op-inspct,Wife,White,45,United-States,1961-10-09,0,0,1,0,0,0,0,0,None
 696,67.0,F,0,0,0,0,0,0,0.84,3.3,222.0,1.82,122.0,svi,increased binding protein,Private,90051,4,Married-civ-spouse,Machine-op-inspct,Wife,White,44,Canada,1950-04-16,0,0,0,0,0,0,1,0,Positive
-697,33.0,F,0,0,0,0,0,0,0.3,2.1,112.0,1.0039699561429722,112.68017911146191,other,negative,Private,328734,9,Never-married,Adm-clerical,Unmarried,White,40,United-States,1984-05-26,0,0,0,0,0,0,0,0,Negative
-698,61.0,F,0,0,0,0,0,0,1.2,1.8,88.0,0.946881970760812,95.00019040990813,other,negative,Private,166107,9,Married-civ-spouse,Adm-clerical,Wife,Asian-Pac-Islander,40,Unknown,1956-05-19,0,0,0,0,0,0,0,0,None
+697,33.0,F,0,0,0,0,0,0,0.3,2.1,112.0,0.98,112.68017911146191,other,negative,Private,328734,9,Never-married,Adm-clerical,Unmarried,White,40,United-States,1984-05-26,0,0,0,0,0,0,0,0,Negative
+698,61.0,F,0,0,0,0,0,0,1.2,1.8,88.0,0.98,95.00019040990813,other,negative,Private,166107,9,Married-civ-spouse,Adm-clerical,Wife,Asian-Pac-Islander,40,Unknown,1956-05-19,0,0,0,0,0,0,0,0,None
 699,54.0,F,0,0,1,0,0,0,0.08,2.1,133.0,1.14,116.0,other,negative,Private,226441,13,Never-married,Prof-specialty,Other_relative,White,40,United-States,1963-09-08,0,0,1,0,0,0,0,0,None
 700,36.0,Unknown,0,0,0,0,0,0,1.9,1.37215361993702,59.0,0.59,99.0,svhc,decreased binding protein,Unknown,170456,10,Never-married,Unknown,Own_child,White,5,United-States,1981-06-06,0,0,0,0,0,0,0,0,None
-701,17.0,F,0,0,0,0,0,0,0.8,3.4,46.0,0.8469779963420317,64.06021018218901,svhc,negative,Unknown,38032,9,Never-married,Unknown,Not_in_family,White,40,United-States,2001-02-09,0,0,0,0,1,0,0,0,None
+701,17.0,F,0,0,0,0,0,0,0.8,3.4,46.0,0.98,64.06021018218901,svhc,negative,Unknown,38032,9,Never-married,Unknown,Not_in_family,White,40,United-States,2001-02-09,0,0,0,0,1,0,0,0,None
 702,65.0,F,0,0,0,0,0,0,1.7,2.4,73.0,0.89,82.0,svi,negative,Private,221233,12,Divorced,Exec-managerial,Unmarried,White,37,United-States,1952-06-27,0,0,0,0,0,0,0,0,None
 703,75.0,M,0,0,0,0,0,0,1.0,1.5,121.0,0.8,153.0,svi,negative,Private,228598,10,Married-civ-spouse,Handlers-cleaners,Husband,Other,40,Mexico,1942-11-02,0,0,0,0,0,0,0,0,None
 704,66.0,F,0,0,0,0,0,0,0.07,2.1505331814212747,118.0,0.94,126.0,other,negative,Private,252257,15,Never-married,Prof-specialty,Not_in_family,White,40,United-States,1952-02-07,0,0,1,0,0,0,0,0,None
@@ -712,7 +712,7 @@
 710,77.0,F,0,0,0,0,0,0,3.5,0.8,68.0,0.97,70.0,svi,negative,Private,190885,4,Widowed,Other-service,Unmarried,White,38,Mexico,1940-03-31,0,0,0,0,0,0,1,1,None
 711,73.0,M,0,0,0,0,0,0,2.7,1.1,62.0,0.7,89.0,svi,negative,Private,72520,10,Never-married,Other-service,Own_child,White,30,United-States,1944-09-29,0,0,0,0,0,0,0,0,None
 712,61.0,M,0,0,0,0,0,0,3.8,1.3,93.0,0.84,111.0,other,negative,State-gov,53497,14,Married-civ-spouse,Prof-specialty,Husband,White,46,United-States,1956-07-22,0,0,1,0,0,0,0,0,None
-713,54.0,F,0,0,0,0,0,0,0.14,3.4,105.0,0.9873192937398422,107.52351574017538,other,increased binding protein,Private,222573,9,Separated,Machine-op-inspct,Unmarried,White,40,United-States,1963-10-04,0,0,0,0,0,0,0,0,None
+713,54.0,F,0,0,0,0,0,0,0.14,3.4,105.0,0.98,107.52351574017538,other,increased binding protein,Private,222573,9,Separated,Machine-op-inspct,Unmarried,White,40,United-States,1963-10-04,0,0,0,0,0,0,0,0,None
 714,38.0,Unknown,0,0,0,0,0,0,1.1,2.2,145.0,1.23,118.0,svhc,negative,Federal-gov,265604,9,Married-civ-spouse,Craft-repair,Husband,Black,40,United-States,1980-01-05,0,0,0,0,1,0,0,0,None
 715,43.0,M,0,0,0,0,0,0,1.5,1.2,78.0,0.72,108.0,other,negative,Private,192236,10,Married-civ-spouse,Handlers-cleaners,Husband,White,48,United-States,1974-10-16,0,0,0,0,0,0,0,0,Positive
 716,58.0,F,0,0,0,0,0,0,3.2,2.1,75.0,1.04,72.0,other,negative,Private,162551,9,Never-married,Exec-managerial,Not_in_family,Asian-Pac-Islander,35,Hong,1960-02-20,0,0,1,0,0,0,1,0,None
@@ -722,12 +722,12 @@
 720,23.0,Unknown,0,0,0,0,0,0,4.1,1.9,66.0,0.85,77.0,svhd,negative,Unknown,171482,10,Married-civ-spouse,Unknown,Husband,White,30,United-States,1994-12-10,0,0,0,0,0,0,0,1,None
 721,71.0,F,0,0,0,0,0,0,0.56,0.6,49.0,0.54,90.0,svi,decreased binding protein,Private,572285,9,Never-married,Other-service,Other_relative,White,20,United-States,1947-01-03,0,0,0,0,0,0,0,0,None
 722,34.0,F,0,0,0,0,0,0,0.85,2.5,108.0,1.09,99.0,other,negative,Private,214378,9,Never-married,Adm-clerical,Own_child,White,40,United-States,1983-09-04,0,0,0,0,0,0,0,0,None
-723,59.0,F,0,0,0,0,0,0,0.93,1.7,81.0,0.930231308357682,89.8435270386216,other,negative,Private,127366,6,Never-married,Other-service,Own_child,White,20,United-States,1958-04-10,0,0,0,0,0,0,0,0,None
+723,59.0,F,0,0,0,0,0,0,0.93,1.7,81.0,0.98,89.8435270386216,other,negative,Private,127366,6,Never-married,Other-service,Own_child,White,20,United-States,1958-04-10,0,0,0,0,0,0,0,0,None
 724,73.0,F,0,0,0,0,0,0,2.4,2.0,119.0,0.92,129.0,svi,negative,Private,216479,13,Never-married,Sales,Not_in_family,White,40,United-States,1944-05-15,0,0,0,0,0,0,0,0,None
 725,83.0,F,0,0,0,0,0,0,0.43,0.4,92.0,0.75,123.0,svi,negative,Federal-gov,254202,14,Never-married,Exec-managerial,Not_in_family,White,50,United-States,1934-12-19,0,0,0,0,0,0,0,0,Positive
 726,80.0,F,0,0,0,0,0,0,0.97,1.7,83.0,0.97,86.0,other,negative,Private,340543,9,Separated,Adm-clerical,Not_in_family,White,40,United-States,1937-10-23,0,0,0,0,0,0,0,0,None
 727,64.0,M,0,0,0,0,0,0,4.6,1.5,133.0,1.08,124.0,svi,negative,Federal-gov,113612,13,Married-civ-spouse,Prof-specialty,Husband,White,40,United-States,1953-06-15,0,0,0,0,0,0,0,0,None
-728,35.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,143746,9,Divorced,Other-service,Not_in_family,White,40,United-States,1983-01-01,0,0,0,0,0,0,0,0,None
+728,35.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,143746,9,Divorced,Other-service,Not_in_family,White,40,United-States,1983-01-01,0,0,0,0,0,0,0,0,None
 729,78.0,M,0,0,0,0,0,0,0.03,1.8,122.0,1.07,114.0,svi,negative,Private,284086,5,Divorced,Transport-moving,Not_in_family,White,30,United-States,1939-04-11,0,0,0,0,0,0,0,0,None
 730,71.0,M,0,0,0,0,0,0,25.0,0.3,31.0,0.68,46.0,svi,negative,Private,301251,13,Married-civ-spouse,Craft-repair,Husband,White,50,United-States,1946-05-27,0,0,1,0,0,0,1,0,None
 731,62.0,F,1,0,0,0,0,0,0.025,2.2,183.0,1.03,178.0,other,negative,Private,91972,9,Married-civ-spouse,Priv-house-serv,Wife,White,35,United-States,1955-03-29,0,0,1,0,0,0,0,0,None
@@ -737,7 +737,7 @@
 735,62.0,M,0,0,0,0,0,0,2.4,2.0,103.0,0.95,109.0,other,negative,Private,89172,14,Divorced,Adm-clerical,Not_in_family,White,40,United-States,1955-09-16,0,0,1,0,0,0,0,0,None
 736,61.0,F,0,0,1,0,0,0,1.8,1.9,102.0,1.06,97.0,svhd,negative,Private,216864,5,Divorced,Exec-managerial,Unmarried,White,40,United-States,1956-07-06,0,0,0,0,0,0,0,1,None
 737,60.0,F,0,0,0,0,0,0,0.18,2.1,132.0,1.1,120.0,other,negative,Private,144144,9,Never-married,Handlers-cleaners,Unmarried,Black,30,United-States,1957-06-04,0,0,1,0,0,0,0,0,None
-738,61.0,F,0,0,0,0,0,0,4.672150238473766,2.0,147.0,1.0872232681586225,138.46349596789452,other,negative,Private,211345,10,Never-married,Adm-clerical,Own_child,White,40,Nicaragua,1956-06-12,0,0,1,0,0,0,1,0,None
+738,61.0,F,0,0,0,0,0,0,4.672150238473766,2.0,147.0,0.98,138.46349596789452,other,negative,Private,211345,10,Never-married,Adm-clerical,Own_child,White,40,Nicaragua,1956-06-12,0,0,1,0,0,0,1,0,None
 739,62.0,F,0,0,0,0,0,0,1.1,2.4,81.0,0.97,84.0,other,negative,Private,121596,10,Never-married,Other-service,Own_child,White,35,United-States,1956-03-12,0,0,0,0,0,1,0,0,Positive
 740,51.0,F,0,0,0,0,1,0,5.8,4.037114152476334,261.0,2.32,113.0,other,increased binding protein,Private,409902,9,Never-married,Machine-op-inspct,Own_child,Black,40,United-States,1966-12-28,0,0,0,0,0,0,0,0,None
 741,27.0,M,0,0,0,0,0,0,2.9,2.0713759378805032,112.0,0.95,117.0,other,negative,Private,337266,11,Married-civ-spouse,Exec-managerial,Husband,White,40,United-States,1991-02-12,0,0,0,0,0,0,0,0,None
@@ -763,8 +763,8 @@
 761,25.0,M,0,0,0,0,0,0,26.429999999999836,0.2,16.0,0.94,17.0,other,negative,Unknown,192321,10,Never-married,Unknown,Own_child,White,40,United-States,1992-09-02,0,0,0,0,0,0,0,0,None
 762,38.0,F,0,0,0,0,0,0,0.5,4.7,172.0,1.83,94.0,stmw,increased binding protein,Private,109912,13,Never-married,Other-service,Not_in_family,White,40,Unknown,1979-06-01,0,0,0,0,0,0,0,0,None
 763,64.0,F,0,0,0,0,0,0,0.85,1.1,99.0,1.11,90.0,svi,negative,Private,289982,7,Never-married,Other-service,Not_in_family,White,40,United-States,1953-08-08,0,0,1,0,0,0,1,0,None
-764,57.0,M,0,0,0,0,0,0,26.429999999999836,1.3,64.0,0.8897939853786518,77.32020170835435,other,negative,Private,236804,10,Never-married,Sales,Own_child,White,15,United-States,1960-11-11,0,0,1,0,0,1,0,0,None
-765,36.0,F,0,0,0,0,0,0,4.672150238473766,1.8,82.0,0.932609974415272,90.58019323451968,svi,negative,Private,1047822,7,Never-married,Sales,Unmarried,White,25,United-States,1982-01-20,0,0,0,0,0,0,0,1,None
+764,57.0,M,0,0,0,0,0,0,26.429999999999836,1.3,64.0,0.98,77.32020170835435,other,negative,Private,236804,10,Never-married,Sales,Own_child,White,15,United-States,1960-11-11,0,0,1,0,0,1,0,0,None
+765,36.0,F,0,0,0,0,0,0,4.672150238473766,1.8,82.0,0.98,90.58019323451968,svi,negative,Private,1047822,7,Never-married,Sales,Unmarried,White,25,United-States,1982-01-20,0,0,0,0,0,0,0,1,None
 766,68.0,F,0,0,0,0,0,0,1.2,1.8470970811816503,95.0,1.02,93.0,other,negative,Private,141379,9,Divorced,Adm-clerical,Not_in_family,White,42,United-States,1949-08-12,0,0,0,0,0,0,0,0,None
 767,67.0,M,0,0,0,0,0,0,4.3,2.0,125.0,1.01,124.0,svi,negative,Private,94113,9,Married-civ-spouse,Craft-repair,Husband,White,60,United-States,1950-04-19,0,0,0,0,0,0,0,0,Positive
 768,59.0,F,0,0,0,0,0,0,0.015,2.2,164.0,1.01,162.0,other,negative,Unknown,190873,13,Married-civ-spouse,Unknown,Wife,White,40,United-States,1959-01-05,0,0,1,0,0,0,0,0,None
@@ -772,7 +772,7 @@
 770,53.0,F,0,0,0,0,0,0,8.1,2.4,132.0,1.28,103.0,other,negative,Private,256179,10,Married-civ-spouse,Machine-op-inspct,Wife,Black,48,United-States,1964-08-31,0,0,0,0,0,0,0,0,None
 771,48.0,F,0,0,0,0,0,0,0.5,1.4,80.0,0.88,91.0,svi,negative,Self-emp-not-inc,176690,5,Widowed,Other-service,Not_in_family,White,40,England,1969-08-03,0,0,0,0,0,0,0,0,None
 772,60.0,M,0,0,0,0,0,0,26.429999999999836,1.0,32.0,0.63,51.0,other,negative,Local-gov,173630,14,Married-civ-spouse,Prof-specialty,Husband,White,36,United-States,1957-12-25,0,0,1,0,0,0,1,0,None
-773,21.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,235523,9,Separated,Adm-clerical,Unmarried,Black,40,United-States,1996-11-24,0,0,0,0,0,0,0,0,None
+773,21.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,235523,9,Separated,Adm-clerical,Unmarried,Black,40,United-States,1996-11-24,0,0,0,0,0,0,0,0,None
 774,59.0,F,0,0,0,0,0,0,0.9,3.6,112.0,1.18,96.0,other,negative,Private,275771,9,Divorced,Exec-managerial,Unmarried,White,50,United-States,1959-02-05,0,0,0,0,0,0,1,0,None
 775,38.0,F,0,0,0,0,0,0,2.8,2.4,96.0,0.98,99.0,other,negative,Private,42251,13,Never-married,Exec-managerial,Not_in_family,White,45,United-States,1979-05-28,0,0,0,0,0,0,0,0,None
 776,87.0,M,0,0,0,0,0,0,1.0,1.2,103.0,0.87,118.0,svi,negative,Private,108438,10,Married-civ-spouse,Exec-managerial,Husband,White,60,United-States,1930-04-26,0,0,0,0,0,0,0,0,None
@@ -789,7 +789,7 @@
 787,58.0,F,0,0,1,0,0,0,0.5,2.3,115.0,1.0,115.0,other,negative,Local-gov,140240,7,Never-married,Adm-clerical,Own_child,White,20,United-States,1959-11-05,0,0,1,0,0,0,0,0,None
 788,32.0,F,0,0,0,0,0,0,1.2,1.6,68.0,1.02,66.0,svhc,negative,Unknown,187581,10,Never-married,Unknown,Own_child,White,40,United-States,1985-04-05,0,0,0,0,1,0,0,0,None
 789,56.0,F,0,0,0,0,0,0,0.6,2.4,142.0,1.12,127.0,other,negative,Private,176536,10,Separated,Adm-clerical,Other_relative,Amer-Indian-Eskimo,42,United-States,1961-07-04,0,0,0,0,0,0,0,0,None
-790,38.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,110622,13,Never-married,Adm-clerical,Unmarried,Asian-Pac-Islander,40,Philippines,1979-12-24,0,0,0,0,0,0,0,0,None
+790,38.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,110622,13,Never-married,Adm-clerical,Unmarried,Asian-Pac-Islander,40,Philippines,1979-12-24,0,0,0,0,0,0,0,0,None
 791,19.0,F,0,0,0,0,0,0,8.8,2.7,108.0,1.11,97.0,other,negative,Private,168524,10,Never-married,Tech-support,Not_in_family,White,40,United-States,1998-10-28,0,0,0,0,0,0,0,0,None
 792,21.0,F,0,0,0,0,0,0,4.672150238473766,2.3352334163497424,132.0,0.87,152.0,other,negative,Local-gov,156383,10,Never-married,Protective-serv,Unmarried,Black,40,United-States,1996-09-27,1,0,0,0,0,0,0,0,None
 793,73.0,F,0,0,0,0,0,0,1.4,1.6,119.0,0.92,130.0,svi,negative,Private,210338,13,Never-married,Adm-clerical,Own_child,Black,30,United-States,1944-05-06,0,0,0,0,0,0,0,0,None
@@ -799,10 +799,10 @@
 797,18.0,Unknown,0,0,0,0,0,0,4.2,1.6228182244827971,78.0,0.77,102.0,svi,negative,Private,162869,10,Never-married,Handlers-cleaners,Unmarried,White,40,United-States,1999-12-03,0,0,0,0,0,0,0,0,None
 798,25.0,F,0,0,1,0,0,0,4.9,1.5700467287889492,74.0,0.92,80.0,other,negative,State-gov,113588,9,Never-married,Tech-support,Own_child,White,24,United-States,1992-07-02,0,0,0,0,0,0,0,0,None
 799,12.0,F,0,0,0,0,0,0,2.4,2.7837911297474487,166.0,1.2,138.0,other,increased binding protein,Self-emp-not-inc,49154,7,Never-married,Other-service,Unmarried,Amer-Indian-Eskimo,40,United-States,2005-06-28,0,0,0,0,0,0,0,1,None
-800,71.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Federal-gov,49358,6,Never-married,Other-service,Unmarried,Black,40,United-States,1946-04-08,0,0,0,0,0,0,0,0,None
+800,71.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Federal-gov,49358,6,Never-married,Other-service,Unmarried,Black,40,United-States,1946-04-08,0,0,0,0,0,0,0,0,None
 801,80.0,F,0,0,0,0,0,0,2.6,2.2,97.0,1.04,94.0,other,negative,Private,227594,13,Never-married,Sales,Not_in_family,White,40,United-States,1937-07-17,0,0,0,0,0,0,0,0,None
 802,33.0,F,0,0,0,0,0,0,6.2,0.8,51.0,0.88,58.0,svi,negative,Private,175414,9,Never-married,Other-service,Own_child,White,15,United-States,1984-07-24,0,0,0,0,0,0,0,0,None
-803,70.0,F,0,0,0,0,0,0,3.6,1.9,114.0,1.0087272882581524,114.15351150325806,svi,negative,Private,128829,9,Divorced,Other-service,Not_in_family,White,40,United-States,1948-02-24,0,0,0,0,0,0,0,0,None
+803,70.0,F,0,0,0,0,0,0,3.6,1.9,114.0,0.98,114.15351150325806,svi,negative,Private,128829,9,Divorced,Other-service,Not_in_family,White,40,United-States,1948-02-24,0,0,0,0,0,0,0,0,None
 804,17.0,F,0,0,0,0,0,0,0.25,2.137340307497813,117.0,0.92,126.0,other,negative,State-gov,33423,10,Never-married,Other-service,Not_in_family,White,35,United-States,2000-12-21,0,0,1,0,0,0,0,0,None
 805,59.0,F,0,0,0,0,0,0,4.0,1.3,120.0,0.94,128.0,other,negative,Private,222130,9,Never-married,Adm-clerical,Unmarried,White,40,United-States,1958-04-24,0,0,1,0,0,0,1,0,None
 806,55.0,F,0,0,0,0,0,0,2.4,2.3,104.0,1.03,101.0,svhc,negative,Private,458609,9,Divorced,Sales,Not_in_family,White,30,United-States,1962-11-29,0,0,0,0,0,0,0,0,Positive
@@ -811,7 +811,7 @@
 809,60.0,M,0,0,0,0,0,0,0.15,7.020200000000022,120.0,1.04,116.0,svi,negative,Private,101020,13,Separated,Exec-managerial,Not_in_family,White,55,United-States,1957-05-10,0,0,0,0,0,0,0,0,Positive
 810,26.0,F,0,0,0,0,0,0,3.4,1.9658329464928077,104.0,1.12,92.0,other,negative,Private,154964,9,Divorced,Machine-op-inspct,Other_relative,Black,40,United-States,1991-09-12,0,0,0,0,0,0,0,0,None
 811,74.0,F,0,0,0,0,0,0,1.3,1.2,89.0,0.94,95.0,other,negative,Private,209034,10,Never-married,Other-service,Not_in_family,White,35,United-States,1943-06-26,0,0,0,0,0,0,1,0,None
-812,38.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,449578,10,Married-civ-spouse,Craft-repair,Husband,White,48,United-States,1979-06-03,0,0,0,0,0,0,0,0,None
+812,38.0,M,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,449578,10,Married-civ-spouse,Craft-repair,Husband,White,48,United-States,1979-06-03,0,0,0,0,0,0,0,0,None
 813,74.0,F,0,0,0,0,0,0,4.672150238473766,1.9,98.0,1.06,92.0,other,negative,Private,132053,9,Never-married,Adm-clerical,Other_relative,White,40,United-States,1943-07-08,0,0,0,0,0,0,0,0,Negative
 814,51.0,F,0,0,0,0,0,0,4.672150238473766,1.8075184594112643,92.0,0.83,111.0,other,negative,Unknown,117310,9,Divorced,Unknown,Not_in_family,White,40,United-States,1966-06-10,0,0,0,0,0,0,0,0,None
 815,52.0,M,0,0,0,0,0,0,0.015,2.7,122.0,0.83,147.0,other,negative,Private,192237,10,Never-married,Sales,Not_in_family,White,40,United-States,1965-08-02,0,0,0,0,0,0,0,0,None
@@ -824,7 +824,7 @@
 822,37.0,F,0,0,0,0,0,0,1.1,2.0,97.0,0.99,98.0,svi,negative,Private,122194,9,Divorced,Adm-clerical,Not_in_family,White,40,United-States,1980-08-12,0,0,0,0,1,0,0,0,None
 823,73.0,F,0,0,0,0,0,0,4.4,1.2,95.0,1.11,85.0,svi,negative,Private,173001,10,Married-civ-spouse,Tech-support,Own_child,White,40,United-States,1944-10-23,0,0,0,0,0,0,0,0,Negative
 824,19.0,M,0,0,0,0,0,0,3.1,2.8,131.0,0.95,138.0,svhc,negative,Private,191277,11,Divorced,Craft-repair,Own_child,White,30,Thailand,1998-03-26,0,0,0,0,0,0,0,0,None
-825,20.0,Unknown,0,0,0,0,0,0,1.6,1.4,96.0,0.9659112992215322,100.89351997709272,svi,negative,Private,162041,10,Divorced,Other-service,Unmarried,White,30,United-States,1998-02-24,0,0,0,0,0,0,0,0,None
+825,20.0,Unknown,0,0,0,0,0,0,1.6,1.4,96.0,0.98,100.89351997709272,svi,negative,Private,162041,10,Divorced,Other-service,Unmarried,White,30,United-States,1998-02-24,0,0,0,0,0,0,0,0,None
 826,89.0,M,0,0,0,0,0,0,0.9,2.4,105.0,0.95,110.0,svi,negative,Private,178322,9,Married-civ-spouse,Sales,Husband,White,70,United-States,1928-11-22,0,0,0,0,0,0,0,0,None
 827,48.0,M,0,0,0,0,0,0,2.2,2.1,55.0,0.85,65.0,svhc,negative,Unknown,191830,9,Married-civ-spouse,Unknown,Husband,White,55,United-States,1969-08-20,0,0,0,0,0,0,0,0,None
 828,89.0,F,0,0,0,0,0,0,0.25,1.2,70.0,1.06,66.0,svi,negative,Private,188798,14,Married-civ-spouse,Exec-managerial,Wife,White,40,United-States,1928-10-01,0,0,0,0,0,0,0,0,None
@@ -832,7 +832,7 @@
 830,29.0,F,0,0,0,0,1,0,4.672150238473766,1.6,86.0,0.78,111.0,other,negative,Private,192660,9,Widowed,Adm-clerical,Unmarried,White,20,United-States,1988-08-22,0,0,0,0,0,1,0,0,None
 831,61.0,F,0,0,0,0,0,0,0.51,1.7811327115643405,90.0,0.81,111.0,other,negative,State-gov,179089,13,Married-civ-spouse,Adm-clerical,Wife,White,40,United-States,1957-01-23,0,0,1,0,0,0,0,0,None
 832,28.0,F,0,0,0,0,0,0,1.0,2.3,116.0,1.13,103.0,other,negative,Private,299353,10,Divorced,Other-service,Unmarried,White,56,United-States,1990-02-24,0,0,0,0,0,0,1,0,None
-833,66.0,F,0,0,0,0,0,0,0.39,2.3,102.0,0.9801832955670722,105.31351715248117,other,negative,Federal-gov,408813,9,Married-civ-spouse,Craft-repair,Wife,White,40,United-States,1952-02-16,0,0,0,0,0,0,0,0,None
+833,66.0,F,0,0,0,0,0,0,0.39,2.3,102.0,0.98,105.31351715248117,other,negative,Federal-gov,408813,9,Married-civ-spouse,Craft-repair,Wife,White,40,United-States,1952-02-16,0,0,0,0,0,0,0,0,None
 834,48.0,M,0,0,0,0,0,0,4.672150238473766,2.4,130.0,1.24,105.0,other,negative,Private,115258,6,Never-married,Craft-repair,Unmarried,White,40,United-States,1969-10-29,0,0,0,0,0,0,0,0,None
 835,42.0,F,0,0,0,0,0,0,0.6,2.5,125.0,1.22,102.0,other,negative,Local-gov,214275,9,Divorced,Other-service,Unmarried,Black,55,United-States,1975-10-28,0,0,0,0,0,0,0,0,None
 836,64.0,M,0,0,0,0,0,0,0.78,1.9922186943397315,106.0,0.88,121.0,svi,negative,Self-emp-inc,233149,12,Married-civ-spouse,Transport-moving,Husband,White,45,United-States,1953-11-29,0,0,0,0,0,0,0,0,None
@@ -850,11 +850,11 @@
 848,18.0,F,0,0,0,0,0,0,9.6,2.4,220.0,1.68,131.0,stmw,negative,State-gov,173534,10,Never-married,Prof-specialty,Own_child,White,40,Ecuador,1999-06-20,0,0,0,0,0,0,1,0,None
 849,75.0,F,0,0,0,0,0,0,0.77,2.3,83.0,0.89,94.0,other,negative,Unknown,211968,10,Never-married,Unknown,Own_child,White,23,Iran,1942-05-07,0,0,0,0,0,0,0,0,None
 850,23.0,F,0,0,0,0,0,0,1.4,3.0,174.0,1.35,129.0,other,negative,Private,153997,9,Married-civ-spouse,Other-service,Wife,White,40,Puerto-Rico,1994-05-27,0,0,1,0,0,0,0,0,Negative
-851,41.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,210794,10,Never-married,Machine-op-inspct,Own_child,White,40,United-States,1976-03-29,0,0,0,0,0,1,0,0,None
+851,41.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,210794,10,Never-married,Machine-op-inspct,Own_child,White,40,United-States,1976-03-29,0,0,0,0,0,1,0,0,None
 852,45.0,M,0,0,0,0,0,0,0.2,1.8,94.0,0.84,111.0,svhc,negative,Private,157145,9,Separated,Machine-op-inspct,Not_in_family,White,40,United-States,1972-07-19,0,0,0,0,0,0,0,0,None
 853,63.0,F,0,0,0,0,0,0,8.2,2.1,80.0,1.01,79.0,other,negative,Private,215912,9,Married-civ-spouse,Other-service,Wife,Black,40,United-States,1954-05-19,0,0,0,0,0,0,0,0,None
 854,49.0,F,0,0,0,0,0,0,1.7,2.0,155.0,1.01,154.0,other,negative,Unknown,132053,10,Never-married,Unknown,Own_child,White,35,United-States,1969-02-18,0,0,0,0,0,0,0,0,None
-855,24.0,M,0,0,0,0,0,0,2.0,1.6,96.0,0.9659112992215322,100.89351997709272,other,negative,Self-emp-not-inc,110102,9,Widowed,Farming-fishing,Not_in_family,White,77,United-States,1993-06-09,0,0,0,0,0,0,0,0,Negative
+855,24.0,M,0,0,0,0,0,0,2.0,1.6,96.0,0.98,100.89351997709272,other,negative,Self-emp-not-inc,110102,9,Widowed,Farming-fishing,Not_in_family,White,77,United-States,1993-06-09,0,0,0,0,0,0,0,0,Negative
 856,60.0,F,0,0,0,0,0,0,0.5,1.0,73.0,0.82,89.0,svhc,negative,Unknown,217409,10,Married-civ-spouse,Unknown,Wife,White,40,United-States,1958-01-17,0,0,0,0,0,0,0,0,None
 857,60.0,M,0,0,0,0,0,0,0.9,1.5,86.0,0.65,132.0,svhc,negative,Private,178530,8,Divorced,Craft-repair,Not_in_family,White,40,United-States,1958-01-25,0,0,0,0,0,0,0,0,None
 858,46.0,F,0,0,0,0,0,0,0.91,2.4,124.0,1.05,118.0,other,negative,Private,377405,10,Never-married,Exec-managerial,Not_in_family,White,20,United-States,1971-10-26,0,0,0,0,0,0,0,0,None
@@ -865,7 +865,7 @@
 863,42.0,F,0,0,0,0,0,0,0.12,2.559512273048595,149.0,1.05,143.0,other,negative,Private,193132,9,Divorced,Machine-op-inspct,Not_in_family,White,50,United-States,1976-01-07,0,0,1,0,0,0,0,0,None
 864,29.0,F,0,0,0,0,0,0,0.2,0.9,54.0,0.76,72.0,svi,negative,Unknown,168347,9,Separated,Unknown,Unmarried,Black,40,United-States,1988-09-22,0,0,0,0,0,0,0,1,None
 865,61.0,F,0,0,0,0,0,0,4.672150238473766,1.7943255854878024,91.0,0.71,128.0,other,negative,Private,99928,13,Never-married,Sales,Not_in_family,White,40,United-States,1957-01-22,0,0,0,0,0,0,0,0,None
-866,57.0,F,0,0,0,0,0,0,2.6,0.7,115.0,1.0111059543157421,114.89017769915614,svi,negative,Private,332657,10,Never-married,Other-service,Not_in_family,White,25,United-States,1961-01-19,0,0,0,0,0,1,0,0,None
+866,57.0,F,0,0,0,0,0,0,2.6,0.7,115.0,0.98,114.89017769915614,svi,negative,Private,332657,10,Never-married,Other-service,Not_in_family,White,25,United-States,1961-01-19,0,0,0,0,0,1,0,0,None
 867,62.0,F,0,0,0,0,0,0,1.1,1.9,113.0,1.14,99.0,other,negative,Private,226922,9,Separated,Other-service,Not_in_family,White,43,United-States,1955-06-24,0,0,0,0,0,0,0,0,Positive
 868,45.0,M,0,0,0,0,0,0,1.9,2.5,114.0,1.01,113.0,other,negative,Private,170685,10,Divorced,Sales,Unmarried,White,46,United-States,1972-06-27,0,0,0,0,0,0,0,0,None
 869,74.0,F,0,0,0,0,0,0,1.8,2.6,131.0,1.18,111.0,other,negative,Private,113838,13,Widowed,Prof-specialty,Not_in_family,White,37,United-States,1944-03-26,0,0,0,0,0,0,0,0,Positive
@@ -885,7 +885,7 @@
 883,69.0,F,0,0,0,0,0,0,1.1,1.9,135.0,0.96,141.0,svi,negative,Private,302903,10,Married-civ-spouse,Exec-managerial,Wife,Asian-Pac-Islander,40,United-States,1949-01-23,0,0,0,0,0,0,0,0,None
 884,88.0,F,0,0,0,0,0,0,1.2,1.6,107.0,1.09,99.0,svi,negative,Private,245500,13,Never-married,Prof-specialty,Not_in_family,Asian-Pac-Islander,25,Unknown,1929-05-25,0,0,0,0,0,0,0,0,None
 885,68.0,F,0,0,0,0,0,0,1.0,2.1,124.0,1.08,114.0,svi,negative,Private,199915,10,Never-married,Other-service,Own_child,White,10,United-States,1949-04-22,0,0,0,0,0,0,0,0,None
-886,71.0,F,0,0,0,0,0,0,0.98,1.8,100.0,0.9754259634518921,103.84018476068502,svi,negative,Local-gov,216411,12,Married-civ-spouse,Adm-clerical,Wife,White,35,Puerto-Rico,1947-02-22,0,0,0,0,0,0,0,0,None
+886,71.0,F,0,0,0,0,0,0,0.98,1.8,100.0,0.98,103.84018476068502,svi,negative,Local-gov,216411,12,Married-civ-spouse,Adm-clerical,Wife,White,35,Puerto-Rico,1947-02-22,0,0,0,0,0,0,0,0,None
 887,83.0,F,0,0,0,0,0,0,0.6,1.2,95.0,0.83,114.0,svi,negative,Private,256504,9,Never-married,Other-service,Not_in_family,White,40,United-States,1934-12-22,0,0,0,0,0,0,0,0,None
 888,34.0,F,0,0,0,0,0,0,4.672150238473766,5.3,181.0,1.04,174.0,other,negative,Unknown,127306,10,Divorced,Unknown,Unmarried,White,40,United-States,1983-06-20,0,0,0,0,0,1,0,0,None
 889,75.0,F,0,0,0,0,0,0,12.0,2.0,141.0,1.13,125.0,other,negative,Self-emp-inc,183125,15,Married-civ-spouse,Prof-specialty,Wife,White,99,United-States,1943-02-22,0,0,1,0,0,0,0,0,None
@@ -908,7 +908,7 @@
 906,62.0,F,0,0,0,0,0,0,1.9,1.4908894852481775,68.0,0.64,106.0,other,negative,Private,121966,9,Never-married,Tech-support,Not_in_family,White,50,United-States,1956-01-22,0,0,0,0,0,0,0,0,None
 907,74.0,F,0,0,0,0,0,0,5.1,1.8,112.0,1.07,105.0,other,negative,Private,83231,9,Married-civ-spouse,Other-service,Wife,White,40,United-States,1944-02-23,0,0,0,0,0,1,0,0,None
 908,19.0,F,0,0,0,0,0,0,1.7,1.9,100.0,1.06,93.0,other,negative,Private,403118,10,Never-married,Other-service,Own_child,White,11,United-States,1998-09-19,0,0,0,0,0,0,0,0,None
-909,14.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Self-emp-inc,29520,9,Never-married,Other-service,Not_in_family,White,65,United-States,2004-02-21,0,0,0,0,0,0,0,0,None
+909,14.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Self-emp-inc,29520,9,Never-married,Other-service,Not_in_family,White,65,United-States,2004-02-21,0,0,0,0,0,0,0,0,None
 910,59.0,M,0,0,0,0,0,0,0.7,2.8,87.0,1.0,87.0,svi,negative,Private,162688,9,Never-married,Handlers-cleaners,Own_child,White,35,United-States,1959-02-28,0,0,0,0,0,0,0,0,None
 911,72.0,M,0,0,0,0,0,0,5.3,1.0,97.0,0.65,150.0,svi,negative,Private,130442,11,Never-married,Sales,Not_in_family,White,30,United-States,1945-04-25,0,0,0,0,0,0,0,0,None
 912,33.0,F,0,0,0,0,0,0,1.5,2.5,109.0,1.11,98.0,other,negative,Private,538193,7,Never-married,Prof-specialty,Not_in_family,Asian-Pac-Islander,50,United-States,1985-10-03,0,0,0,0,0,0,0,0,None
@@ -921,7 +921,7 @@
 919,63.0,M,0,0,0,0,0,0,5.8,1.9,102.0,1.18,87.0,svi,negative,Private,341672,10,Never-married,Adm-clerical,Other_relative,Asian-Pac-Islander,60,India,1954-06-20,0,0,0,0,0,0,0,0,None
 920,37.0,M,0,0,0,0,0,0,1.1,1.9,117.0,1.0,118.0,svhc,negative,Self-emp-not-inc,234192,4,Married-civ-spouse,Farming-fishing,Husband,White,80,United-States,1980-06-04,0,0,0,0,0,0,0,0,None
 921,58.0,M,0,0,0,0,0,0,3.0,1.6,71.0,0.82,86.0,other,negative,Private,364952,6,Married-spouse-absent,Other-service,Other_relative,White,40,United-States,1959-06-10,0,0,0,0,0,0,0,0,None
-922,32.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Unknown,138564,9,Never-married,Unknown,Own_child,White,8,United-States,1985-04-22,0,0,0,0,0,0,0,0,None
+922,32.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Unknown,138564,9,Never-married,Unknown,Own_child,White,8,United-States,1985-04-22,0,0,0,0,0,0,0,0,None
 923,26.0,F,0,0,0,0,0,0,1.3,1.886675702952036,98.0,1.04,95.0,other,negative,Private,263886,10,Never-married,Adm-clerical,Not_in_family,Black,20,United-States,1991-08-21,0,0,0,0,0,0,0,0,None
 924,30.0,M,0,0,0,0,0,0,2.5,1.9,110.0,0.89,125.0,svi,negative,Unknown,38455,9,Never-married,Unknown,Unmarried,White,40,United-States,1987-10-07,0,0,0,0,0,0,0,0,None
 925,65.0,F,0,0,0,0,0,0,0.6,2.0,144.0,1.0,145.0,svhc,negative,Local-gov,87467,10,Never-married,Prof-specialty,Own_child,White,18,United-States,1952-05-22,0,0,0,0,0,0,0,0,None
@@ -931,7 +931,7 @@
 929,24.0,F,0,0,0,0,0,0,4.672150238473766,1.9526400725693458,103.0,1.09,95.0,other,negative,Local-gov,114231,6,Widowed,Other-service,Unmarried,White,25,United-States,1993-09-06,0,0,0,0,0,0,0,0,None
 930,68.0,F,0,0,0,0,0,0,2.8,1.9,123.0,1.16,106.0,svi,negative,Private,133515,13,Never-married,Sales,Unmarried,White,20,United-States,1949-05-22,0,0,0,0,0,0,0,0,None
 931,62.0,M,0,0,0,0,0,0,3.4,1.3,92.0,0.89,104.0,other,negative,Private,292264,10,Married-civ-spouse,Sales,Husband,White,40,United-States,1956-01-22,0,0,0,0,0,0,0,1,None
-932,33.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Private,150309,9,Divorced,Craft-repair,Not_in_family,White,40,United-States,1984-05-28,1,0,0,0,0,0,0,0,None
+932,33.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Private,150309,9,Divorced,Craft-repair,Not_in_family,White,40,United-States,1984-05-28,1,0,0,0,0,0,0,0,None
 933,26.0,F,0,0,0,0,0,0,1.9,2.5,102.0,1.16,87.0,other,negative,Federal-gov,272339,9,Widowed,Adm-clerical,Unmarried,White,40,United-States,1991-03-20,0,0,0,0,0,0,0,0,None
 934,62.0,F,0,0,0,0,1,0,0.035,2.6,128.0,1.03,124.0,svi,negative,Private,208967,7,Never-married,Sales,Own_child,White,24,United-States,1955-08-18,0,0,0,0,0,0,0,0,None
 935,56.0,M,0,0,0,0,0,0,0.05,1.9,137.0,1.09,126.0,svi,negative,Private,234096,7,Married-civ-spouse,Handlers-cleaners,Husband,White,40,United-States,1961-07-01,0,0,0,0,0,0,1,0,None
@@ -941,7 +941,7 @@
 939,61.0,F,0,0,0,0,0,0,2.6,2.0845688118039654,113.0,0.82,138.0,other,negative,Private,214303,9,Never-married,Other-service,Unmarried,White,20,United-States,1956-08-04,0,0,1,0,0,0,0,0,None
 940,69.0,F,0,0,0,0,0,0,3.3,1.5,130.0,0.86,151.0,other,negative,Private,265368,13,Married-civ-spouse,Exec-managerial,Wife,White,44,United-States,1948-04-22,0,0,1,0,0,0,0,0,Negative
 941,27.0,F,0,0,0,0,0,0,0.055,7.020200000000022,244.0,0.98,249.0,other,negative,Unknown,20877,10,Never-married,Unknown,Unmarried,White,35,United-States,1990-10-22,0,0,0,0,0,0,0,0,None
-942,60.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.9969805706539382,110.51815004876983,other,negative,Local-gov,130730,9,Divorced,Adm-clerical,Other_relative,White,35,United-States,1957-04-01,0,0,0,0,0,0,0,0,None
+942,60.0,F,0,0,0,0,0,0,4.672150238473766,2.0340198748164933,109.07240061162078,0.98,110.51815004876983,other,negative,Local-gov,130730,9,Divorced,Adm-clerical,Other_relative,White,35,United-States,1957-04-01,0,0,0,0,0,0,0,0,None
 943,37.0,M,0,0,0,0,0,0,0.6,2.1,148.0,1.19,124.0,svhc,negative,Local-gov,121124,13,Married-civ-spouse,Prof-specialty,Husband,White,55,United-States,1981-03-05,0,0,0,0,1,0,0,0,None
 944,87.0,F,0,0,0,0,0,0,0.2,1.5,132.0,0.86,153.0,svi,negative,Private,194096,10,Never-married,Adm-clerical,Own_child,White,40,United-States,1931-03-22,0,0,0,0,0,0,1,0,None
 945,28.0,F,0,0,0,0,0,0,26.429999999999836,0.9,36.0,0.9,40.0,other,negative,Private,167049,13,Married-civ-spouse,Priv-house-serv,Wife,White,20,United-States,1989-10-07,0,0,0,0,0,0,0,0,None
@@ -969,5 +969,5 @@
 967,48.0,M,0,0,0,0,0,0,2.4,2.7,110.0,1.09,101.0,svi,negative,Private,170302,9,Widowed,Exec-managerial,Unmarried,White,38,United-States,1969-11-03,0,0,0,0,0,0,0,0,None
 968,60.0,F,0,0,0,0,0,0,6.5,1.1874533850085527,45.0,0.47,96.0,other,negative,Private,46947,10,Divorced,Adm-clerical,Not_in_family,White,45,United-States,1957-11-14,0,0,0,0,0,0,0,0,None
 969,58.0,F,0,0,0,0,0,0,0.2,3.971149782859024,256.0,0.9,283.0,other,negative,Private,618130,9,Divorced,Other-service,Own_child,Black,40,United-States,1959-05-14,0,0,0,0,0,1,1,0,None
-970,61.0,F,0,0,0,0,0,0,1.1,1.4,110.0,0.9992126240277922,111.20684671966576,other,negative,Private,112626,10,Never-married,Priv-house-serv,Own_child,White,15,United-States,1956-09-05,0,0,0,0,0,0,1,0,None
+970,61.0,F,0,0,0,0,0,0,1.1,1.4,110.0,0.98,111.20684671966576,other,negative,Private,112626,10,Never-married,Priv-house-serv,Own_child,White,15,United-States,1956-09-05,0,0,0,0,0,0,1,0,None
 971,83.0,F,0,0,0,0,0,0,2.5,1.5,91.0,0.81,113.0,other,negative,Local-gov,167457,4,Divorced,Exec-managerial,Unmarried,White,40,United-States,1934-12-26,0,0,0,0,0,0,0,0,None
